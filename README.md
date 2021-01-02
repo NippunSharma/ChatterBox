@@ -6,4 +6,5 @@
   for the layout of intents. Please strictly follow the layout and open the link in incognito because the site is not free.
 
 `train.py` -> define and train model. <br>
+`data.py` -> data preprocessing. <br>
 `main.py` -> run chatbot. <br>
