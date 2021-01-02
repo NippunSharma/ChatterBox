@@ -23,6 +23,7 @@ VOCAB_SIZE = 1000
 EMBEDDING_DIM = 16
 MAX_LEN = 20
 OOV_TOKEN = "<OOV>"
+NUM_CLASSES = len(np.unique(labels))
 
 tokenizer = Tokenizer(num_words=VOCAB_SIZE, oov_token=OOV_TOKEN)
 tokenizer.fit_on_texts(training_sentences)
