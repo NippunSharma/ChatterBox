@@ -1,0 +1,16 @@
+// This file will contain all the collected data in the form of intents according to medium article.
+// Refer to this https://towardsdatascience.com/how-to-build-your-own-chatbot-using-deep-learning-bb41f970e281
+// for the layout of intents. Please strictly follow the layout and open the link in incognito because the site is not free.
+
+// sample layout.
+{"intents": [
+    {"tag": "greeting",
+     "patterns": ["Hi", "Hey", "Is anyone there?", "Hello", "Hay"],
+     "responses": ["Hello", "Hi", "Hi there"]
+    },
+    {"tag": "goodbye",
+     "patterns": ["Bye", "See you later", "Goodbye"],
+     "responses": ["See you later", "Have a nice day", "Bye! Come back again"]
+    },
+]
+}
