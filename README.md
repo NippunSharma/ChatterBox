@@ -1,5 +1,5 @@
 # ChatterBox
 
-intents.json -> complete training dataset.
-train.py -> define and train model.
-main.py -> run chatbot.
+intents.json -> complete training dataset. <br>
+train.py -> define and train model. <br>
+main.py -> run chatbot. <br>
