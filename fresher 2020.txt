@@ -40,7 +40,7 @@ A:I highly recommend you go through these branch change rules- https://www.iitma
 Q12:Can we join two clubs at the same time?
 A:yes of course!
 Q13:How is college life , hostels and campus of IIT mandi? and how many students share a room in first year?
-A:Rooms are shared by either 2 or 3 in first year.
+A:Rooms are shared by either 2 or 3 in first year. (https://www.quora.com/How-is-the-hostel-life-and-campus-life-at-IIT-Mandi-At-what-level-is-ragging-at-IIT-Mandi)
 Q14:What facilities are available at IIT MANDI?
 A:IIT MANDI has all sort of facilities like high quality 3d printer(available in mechanical lab), various sensors and controllers like IR sensor, Arduino, Rpi, various sensors, DSO, work station etc in Robotronics Club, student server in Programming club to host their project, Telescope and various astronomy equipment for astro lovers.
   Talking about their availability, I would say they are most easily accessible to students in our college. Students can approach to clubs for issuing these components for their projects or learning purposes. Wrt to different College our college keep these clubs open to all students, so students can approach anytime for availing any of these facilities.
