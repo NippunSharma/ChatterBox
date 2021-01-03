@@ -3,7 +3,7 @@ A:write a mail to ugadmission@iitmandi.ac.in.
 Q2:Is there any concept of English Diagnostic Test at IIT MANDI ?
 A: no, there isn't.
 Q3:do we have different passwords for student portal and admission portal?
-A:Please send an email to the WING for such technical issues and log into your accounts for further updates.
+A:Please send an email to the WING (wing@iitmandi.ac.in) for such technical issues and log into your accounts for further updates.
 Q4:which laptop should I buy?
 A:please refer to this google doc. 
 Q5: from where can we get the allotment letter?
@@ -70,5 +70,4 @@ Q23:is there any need of income certificate during the coming processes of admis
 A:If your family income is less than 5 lakh rupees and you want to avail scholarship, then yes. You will have to submit the certifcate at the time of admission.
 Q24:How is climate at Mandi? Is it too cold?
 A:Not too cold during even sems it's a pleasant weather at that time. During winter time it may go upto 0 deg at its peak of you're lucky to be in campus that time you may witness magical snowfall.
-
 
