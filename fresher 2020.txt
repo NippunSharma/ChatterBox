@@ -9,7 +9,8 @@ A:please refer to this google doc (https://docs.google.com/document/d/1gZ_1lB1Es
 Q5: from where can we get the allotment letter?
 A:you'll need to upload the provisional allotment letter only.
 Q6:how is the coding culture at IIT MANDI?
-A:GSoC selections for 2020:
+A: (https://pc.iitmandi.co.in/gsoc/?fbclid=IwAR3AqheYxjD4Y8r6G4EekG93Erm6F9bCMvmgQtgo-No36-admEdRgs36kAk) 
+GSoC selections for 2020:
   Indore : 3 students
   Ropar : 2 students
   Patna : 6 students
