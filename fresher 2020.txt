@@ -31,7 +31,7 @@ Q9:Can students from branches other than computer science join the programming c
   if yes,  then what are the requirements to join that club?
 A:All clubs in IIT Mandi are open to everyone. The only prerequisite is to learn, grow and work hard😀
 Q10:Are the Software companies recruiting (on-campus intern/placement) for SDE roles also open for Data Science branch or the students of Data Science branch can only sit in  ML/AI based  companies/startups ?
-A:Most of the companies allow all branches to appear in their placement process.
+A:Most of the companies allow all branches to appear in their placement process. (https://www.quora.com/What-is-the-current-placement-scenario-at-IIT-Mandi)
 Q11:can I have a branch change from bio engg to any other branch?
 A:I highly recommend you go through these branch change rules- https://www.iitmandi.ac.in/academics/branch_change.php
   This year sanctioned strength is 28 for BioE.
