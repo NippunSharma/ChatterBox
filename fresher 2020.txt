@@ -1,0 +1,73 @@
+Q1:Is there any provision of editing the information provided on ADMISSION AND ENROLLMENT page on the OAS portal once it's been submitted?
+A:write a mail to ugadmission@iitmandi.ac.in.
+Q2:Is there any concept of English Diagnostic Test at IIT MANDI ?
+A: no, there isn't.
+Q3:do we have different passwords for student portal and admission portal?
+A:Please send an email to the WING (wing@iitmandi.ac.in) for such technical issues and log into your accounts for further updates.
+Q4:which laptop should I buy?
+A:please refer to this google doc (https://docs.google.com/document/d/1gZ_1lB1EsCssO2eT2-4-LqY5DktD0uQjfylMx9JpFGY/edit?fbclid=IwAR1HCEZQIW18ph-bCNn5WFA3LhXQLHNCUxGU_gk357qtX0Qf5xe2gWyrQ1Q) .
+Q5: from where can we get the allotment letter?
+A:you'll need to upload the provisional allotment letter only.
+Q6:how is the coding culture at IIT MANDI?
+A: (https://pc.iitmandi.co.in/gsoc/?fbclid=IwAR3AqheYxjD4Y8r6G4EekG93Erm6F9bCMvmgQtgo-No36-admEdRgs36kAk) 
+GSoC selections for 2020:
+  Indore : 3 students
+  Ropar : 2 students
+  Patna : 6 students
+  Hyderabad : 1 student
+  Bhubaneshwar : 1 student
+  Gandhinagar : Noone from their college knows (I think 0)
+  Mandi : 9 students + 6 mentors
+  Indore is better than us in ICPC(competitive programming) only because they have been to world finals thrice but we are improving upon that too year by year. Couldn't find data for IIT Indore hosted anywhere.
+  Open source culture is better at our college. as shown by GSoC selections. Apart from the GSoC selections, many were also selected in Linux community bridge, which is an equally prestigious program.
+  Data sources for IIT Mandi. Couldn't find any of these for IIT Indore. This shows that even system administration is better at IIT Mandi. 
+Q7:What is OAS?
+A:This link contains all the details and the payment link that will take you directly to the sbi portal where you can pay your fees! (https://www.iitmandi.ac.in/gcs/orientation2020.php?fbclid=IwAR0u_XPTAqIzvKLi-ZDSENt8CK4inw0IsfnZuwPEk_5eQDuBlOO6leTWZFU)
+Q8:When will the email be sent?
+A:You all will receive a mail from the IIT Mandi administration in a day or two.
+Till then, I may ask you to wait for the mail.
+The mail would contain the complete details of admission and fee payment.
+Q9:Can students from branches other than computer science join the programming club?
+  if yes,  then what are the requirements to join that club?
+A:All clubs in IIT Mandi are open to everyone. The only prerequisite is to learn, grow and work hard😀
+Q10:Are the Software companies recruiting (on-campus intern/placement) for SDE roles also open for Data Science branch or the students of Data Science branch can only sit in  ML/AI based  companies/startups ?
+A:Most of the companies allow all branches to appear in their placement process. (https://www.quora.com/What-is-the-current-placement-scenario-at-IIT-Mandi)
+Q11:can I have a branch change from bio engg to any other branch?
+A:I highly recommend you go through these branch change rules- https://www.iitmandi.ac.in/academics/branch_change.php
+  This year sanctioned strength is 28 for BioE.
+  Considering that seats do not go vacant, 8 students can change their branch.
+  In case the initial strength of admitted students in any branch is 21 or below, only 1 student can change their branch.
+Q12:Can we join two clubs at the same time?
+A:yes of course!
+Q13:How is college life , hostels and campus of IIT mandi? and how many students share a room in first year?
+A:Rooms are shared by either 2 or 3 in first year. (https://www.quora.com/How-is-the-hostel-life-and-campus-life-at-IIT-Mandi-At-what-level-is-ragging-at-IIT-Mandi)
+Q14:What facilities are available at IIT MANDI?
+A:IIT MANDI has all sort of facilities like high quality 3d printer(available in mechanical lab), various sensors and controllers like IR sensor, Arduino, Rpi, various sensors, DSO, work station etc in Robotronics Club, student server in Programming club to host their project, Telescope and various astronomy equipment for astro lovers.
+  Talking about their availability, I would say they are most easily accessible to students in our college. Students can approach to clubs for issuing these components for their projects or learning purposes. Wrt to different College our college keep these clubs open to all students, so students can approach anytime for availing any of these facilities.
+  Apart from these there are several tutorial session are conducted on these components for the students.
+Q15:How is UPSC culture at IIT MANDI?
+A:you can easily prepare for it alongside studies if that's your aim, since a lot of online sources are available.
+  Our alumni's performance is commendable in upsc, with Athar Amir Khan sir who scored AIR 2 in 2016 and recently someone got AIR < 200. So no need to worry.
+Q16:How is the placement scenario of IIT mandi?
+A:For information regarding placements, please contact anyone from CnP cell.
+Q17:Given that IIT Mandi is in a geographically challenging area do professor's , CEO's and other eminent people visit the campus as frequent as other IIT's?
+A:The geographical location isn't that bad that it would affect people of eminence from accepting our invitations, though participation of students attending them from outside is affected. (https://www.quora.com/Is-IIT-Mandi-the-most-beautiful-IIt-campus, https://www.quora.com/How-is-the-campus-of-IIT-Mandi, https://www.quora.com/How-is-your-life-at-IIT-Mandi)
+Q18:Which Banks available in IIT Mandi?
+A:SBI & PNB
+Q19:What are all the other food courts available within our campus?
+A:There's so much variety, you won't miss anything.
+  Within the North Campus (the place where you'll spend most of your time at), there's Pannchi cafe, a serve it all restaurant next to the river run by locals. There's also One Bite, a fast food chain thing, two canteens namely Tragopan and Jassi/Monal/🤷‍♂️, giving the typical college/school canteen experience (both currently closed) and finally a small cafe thing within pine mess.
+  The first two in the list will also deliver to your room but none work all night.
+Q20:How are the internships at IIT MANDI?Which companies visit for on-campus internships?
+A:Some of the companies that visit IIT Mandi for interns include companies such as Codenation, DE Shaw, Microsoft etc. You will know the complete list when you sit for internship season but be relieved you will get your shot at almost all the major companies. To see where many aluminis are currently working you can see here
+Q21:How is delivery service in IIT Mandi , does firms like Amazon and Flipkart directly deliver stuff to campus
+A:Yeah, they do...almost all the companies deliver at campus.
+  In fact, they deliver it to one's room...There is a common delivery point as well...🙂
+Q21:Which SIM is best for IIT MANDI?
+A:preferably jio
+Q22:How is internet facility at IIT MANDI?What is average speed and do we get unlimited internet?
+A:The speed is sufficient enough for full hd movie streaming sort of things. Also speed is good enough to download large applications in a genuine time. However if you intend to ask for gaming and stuff they are officially prohibited over the campus internet.
+Q23:is there any need of income certificate during the coming processes of admission?
+A:If your family income is less than 5 lakh rupees and you want to avail scholarship, then yes. You will have to submit the certifcate at the time of admission.
+Q24:How is climate at Mandi? Is it too cold?
+A:Not too cold during even sems it's a pleasant weather at that time. During winter time it may go upto 0 deg at its peak of you're lucky to be in campus that time you may witness magical snowfall.
