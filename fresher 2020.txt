@@ -22,7 +22,7 @@ GSoC selections for 2020:
   Open source culture is better at our college. as shown by GSoC selections. Apart from the GSoC selections, many were also selected in Linux community bridge, which is an equally prestigious program.
   Data sources for IIT Mandi. Couldn't find any of these for IIT Indore. This shows that even system administration is better at IIT Mandi. 
 Q7:What is OAS?
-A:This link contains all the details and the payment link that will take you directly to the sbi portal where you can pay your fees!
+A:This link contains all the details and the payment link that will take you directly to the sbi portal where you can pay your fees! (https://www.iitmandi.ac.in/gcs/orientation2020.php?fbclid=IwAR0u_XPTAqIzvKLi-ZDSENt8CK4inw0IsfnZuwPEk_5eQDuBlOO6leTWZFU)
 Q8:When will the email be sent?
 A:You all will receive a mail from the IIT Mandi administration in a day or two.
 Till then, I may ask you to wait for the mail.
