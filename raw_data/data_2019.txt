@@ -1,0 +1,48 @@
+Q1:How many batches of civil passed in iit mandi approx?
+A:In 2020, the second batch was passed out.
+Q2:What are the placement statistics in 2018-2019?
+A:Please go to this link : https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.iitmandi.ac.in%2Fpressreleases%2Fpressrel%2FPress%2520Release%2520-%2520IIT%2520Mandi%2520set%2520for%2520another%2520year%2520of%2520Strong%2520Placements%2520in%25202018-19.pdf%3Ffbclid%3DIwAR3RPoBh_2DbP0hLYQry5WXIKI3ID40Wn71V1V0M-0-UWeb-LJjwxvJXVBY&h=AT0pXkNlXcmnveoLGzPR9LzNQ6iFXHBfJFdne6zNNVVIRF5d52wRiFDENwXT005BO0mhoHLYsjvAw4b-3kq6GgCTOqcxY_FFHDZCSLT1RJUV9PohuRE-fU7RVC-v&__tn__=-UK-R&c[0]=AT0_8P5kirbgZaPoPCRyIJQE4XYgPc7-PrrL3SCADzoKIlt6t4o-xW6RHEZHQ3jRoj7AEeIZKFIaTe8WTqotbAHVOdTADvVgmF32ZrI1YGkuzpyWHZzSDHYIMN28hiMf8B3BnvaGJ4Tw_Rduxk0ytT73JfcbPV3BUXbF_KvNjJ-zbtSQidV3R5yoJNB1IzI8cjmZ-2nibd9r92su
+Q3:Expected cutoff of ep will higher or lower than civil
+A:More or less they're expected to be close as EP is gaining popularity but it's new in IIT Mandi. It may hover around 7000.
+Q4:what will be estimated cutoff for newly opened data science at iit mandi? any guesses?
+A:It may be nearly same or a just after CSE, I suppose around 3200-3500.
+Q5:What are branch changing rules at IIT Mandi? How difficult is it?
+A:You can find the Branch Change rules on the JOSAA Website or the IIT Mandi Website. The difficulty depends on you. How well you can manage the courses. They are easy. You just need to be attentive in class and do the assignments yourself. 😛
+Q6:Does electrical and cse department in Mandi coincide?
+A:Yes, they do. Here at IIT Mandi, we have interdisciplinary learning and we have schools instead of Departments. There are no Dept. Of CS Engg. and Dept. Of Electrical Engg.! Instead, we have SCEE (School of Computing and Electrical Engineering). One advantage is that If you come with EE and realise that you want to go to IT sector, you can easily take up courses of CSE, sometimes more than CSE guys do.
+Q7:Is IIT mandi elec. branch is good w.r.t coding culture?
+A:Coding Culture is not determined by one's branch, but by one's interest. Your branch could be CSE but you may dislike coding. Picking up coding habits is totally up to you.
+Q8:How is collage life in iit mandi please tell?
+A:he college life is really awesome, One could go for hiking and trekking, or join sports with the possiblity of NSS. Moreover there are a number of groups that you can join. These groups will actually bloom how your profile and develop skills. As for the academics point of view being in IIT will definitely insure you quality education. As for the rest of lifestyle there are canteens and open up till late nights. your batch will come into the north campus with the entire BTech there. A newly build swimming pool too awaits you.
+Q9:What is the scenario of placements of CSE at iit mandi is it better than other new gen. iits?
+A:As said on the above comment placement scenario is more or less same in all the IIT's established during 2008, 2009. All of them have good companies coming for placements, there might be a difference in the number of companies coming for placements in each of these IIT's but judging only by the number of companies will not be appropriate because strength in each IIT also matters. Taking about placements of CSE in IIT Mandi, this year the average package offered was 18.36 lakhs and from the past 4-5 years it is around 16-18 lakhs. Other new gen IIT's also have avg package either around this or less than this, but none has significantly greater than this. If you work hard then at the end you will definately land up getting placed in good company from a campus. Also, by the time you will have your placements after 4 years, there will surely be many more companies coming to IIT Mandi. In case of any other doubts, feel free to ping me.
+Q10:Which banks are closest or are located in the campus?
+A:Pnb + sbi in the South campus.
+Q11:What different things do we have to bring at the time of reporting?
+A:Just dont forget any of the document......you can carry with u the clothes for winter......other stuffs required in hostel will be available on the reporting day.
+Q12:What do seniors think about the Data Science course at IIT Mandi ? I have an inclination towards CSE but won't be getting it here , though I may get Data Science. Do you recommend joining it considering the fact that it is starting only from this year. Moreover , what is your opinion about joining it considering branch change to CSE. Do you recommend taking this risk?
+A:Data Science at IIT Mandi to a great extent will be comparable to CSE only. Many of the courses will be similar or even same! (Some dedicated core Data Science courses are introduced in the curriculum though and those are the only ones which differentiate the branches.) I don't believe you're completely aware about either of the branches currently. I'd definitely suggest to join the Data Science course, irrespective of it starting this year only. And hence, advise you to come here, explore the courses related to both the branches (while being in DSE) and then decide about changing your branch from DSE (you may just want to stay in DSE as it won't make much difference IMO) At last, the 'risk' you're thinking you may have to take will be very little compared to other branches. Because even if you stay in DSE, I'd say, it'll be as good as CSE at IIT Mandi. Hope this helps! 😃
+Q13:Which mobile carrier would be best to use in IIT Mandi ?
+A:Jio, Airtel, BSNL work fine.
+Q14:What are the different clubs and their entrance criterias (complete details will be appreciated).
+A:In the technical society we have programming club, robotronics club, astronomy club, Entrepreneurship cell, nirmaan club(mechanical/civil related stuff),supra club for making racing cars and a lot more.. technical society is open to all, you need to attend the sessions of the club and your involvement in the club will decide your position in that club in further years. For cultural society we have dance club,drama club, designing club, photography club, movie making/videography club, music club,art geeks and more. Here to get selected into a particular club you need to give audition for the club. Even here you will have to attend sessions/workshops organised by the club...and your involvement with the club affairs will decide your position in the club. We also have literary society by which debating, quizzing and other events are often organised. Explore every club see where your interest lies and choose wisely!
+Q15:Are the bath rooms attached or common in boys hostel?
+A:Common.
+Q16:Where can I find the curriculum for CSE in IIT Mandi?
+A:https://www.iitmandi.ac.in/Schools/SCEE/courses.php?fbclid=IwAR3jxxdDLIPY1H_c64KbCNqhk0YYWJawWH_3PXvt-dD0zDlzSFEFm_3UQ-U.
+Q17:How to book the guest house?
+A:http://iitmandi.ac.in/Visitor_info/index.html?fbclid=IwAR0VH1vEXJfYsVhUTuIlbjoQvkczKVsV-1YMplpN3eTr6v2oEOyXRR30ESg.
+Q18:What is the procedure for allotment of hostel rooms?
+A:Hostel room allotment for first year is random.
+Q19:How to reach IIT mandi from mandi bus stand ?
+A:There are institute buses which you can take free of cost, or you can take a cab from mandi bus stand.
+
+
+
+
+
+
+
+
+
+
