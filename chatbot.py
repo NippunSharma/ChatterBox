@@ -6,8 +6,10 @@ from matchData import match
 from numpy.random import choice
 from googleSearch import google_search
 import json
-import time
 import requests
+
+from telegram_bot import TelegramChatbot, speech2text
+from time import sleep
 
 from weather import currentWeather
 
@@ -26,7 +28,7 @@ def greet(inpText):
         if " ".join(process(key)) in " ".join(process(inpText)):
             randGreet = choice(greetDic[key], size=1)[0]
             flag = True
-            print(randGreet)
+            bot.sendMessage(randGreet, from_)
     return flag
 
 
@@ -36,37 +38,78 @@ def process(inpText):
     l = lemmatize_sentence(inpText, keepWordPOS=True)
     return l[1]
 
+update_id = None
+bot = TelegramChatbot()
+
+def getMessage(update_id, from_ = None):
+    # updates contains all the details about the latest message sent by user.
+    updates = bot.getUpdates(offset=update_id)
+    updates = updates["result"]
+
+    # Extracting required fields from updates.
+    
+    if updates:
+        for item in updates:
+            # It helps us to fetch the latest message instead of the whole chat history.
+            update_id = item["update_id"]
+            # Contains all the details of the message.
+            try:
+                message = item["message"]
+            except:
+                message = item["edited_message"]
+            from_ = message["chat"]["id"]   # chat_id of the user.
+
+        # text ---> text query from user.
+    # voice ---> voice message from user.
+    inputMsg = ""
+
+    # Handling the text input from user.
+    try:
+        inputMsg = message["text"].strip(" ")
+    except:
+        pass
+
+    # Handling voice input from user.
+    try:
+        file_id = message["voice"]["file_id"]
+        bot.downloadFile(file_id)
+        inputMsg = speech2text('query.wav').strip(" ")
+        print("User said:", inputMsg)
+    except:
+        pass
+
+    return inputMsg, update_id, from_
+
 
 # Writing main loop.
 mainFlag = True
 while(mainFlag):
+    print("........")
     # obtaining the input.
-    inputMsg = input("> ").strip(" ")
+    inputMsg, update_id, from_ = getMessage(update_id, from_ = None)
+    inputMsg = inputMsg.strip()
 
-    # loop terminating condition.
-    # if inputMsg.lower() == "end":
-    #     print("Happy to be of assistance!!")
-    #     mainFlag = False
-    # else:
+    command = ""
 
-    # processing input message.
+    try:
+        command = inputMsg.split()[0]
+    except:
+        pass
+
     # checking if message is related to coding
     # or not.
-    if inputMsg.split()[0] == "!code":
-        # print("Searching for possible answers..")
-        # time.sleep(2)
-        print("Plese refer to the following link: ")
-        google_search(" ".join(inputMsg.split(" ")[1:]))
-    elif inputMsg.split()[0] == "!faq":
-        print("Searching....")
+    if command == "!code":
+        bot.sendMessage("Plese refer to the following link: ", from_)
+        bot.sendMessage(google_search(" ".join(inputMsg.split(" ")[1:])), from_)
+    elif command == "!faq":
         ansMatch = match(inputMsg, "data/final_concat.csv")
-        print(ansMatch)
-    elif inputMsg.split()[0] == "!weather":
+        bot.sendMessage(ansMatch, from_)
+    elif command == "!weather":
         try:
-            city = " ".join(inputMsg[1:])
-            print(currentWeather(city))
+            city = " ".join(inputMsg.split()[1:])
+            bot.sendMessage(currentWeather(city), from_)
         except Exception as e:
-            print("Type a valid city name.")
+            bot.sendMessage("Unable to process the request.", from_)
     else:
         processedMsg = process(inputMsg)
         # greeting if needed.
@@ -84,25 +127,25 @@ while(mainFlag):
         if (ans == "" and greetFlag):
             continue
         elif (ans == "" and not greetFlag):
-            print("Answer not found in main database...")
-            print(
-                "Do you want me to search in the Facebook groups of previous year and other sites like Quora ?")
-            faq = input("> ").strip().lower()
+            bot.sendMessage("Answer not found in main database...", from_)
+            bot.sendMessage("Do you want me to search in the Facebook groups of previous year and other sites like Quora ?", from_)
+            faq, update_id, from_ = getMessage(update_id, from_)
+            faq = faq.strip().lower()
             if "yes" in faq or "yup" in faq:
-                print("Searching ....")
                 ansMatch = match(inputMsg, "data/final_concat.csv")
-                print(ansMatch)
+                bot.sendMessage(ansMatch, from_)
             else:
-                print("Okay.")
+                bot.sendMessage("Okay.", from_)
         else:
-            print(ans)
+            bot.sendMessage(ans, from_)
             randAltAns = choice(list(altans1.keys()),
                                 size=2, replace=False)
             if len(altans) != 0:
                 QUES = "Do you wish to know more about "
                 # alternate answers
-                print(QUES + ", ".join(randAltAns) + "?")
-                altInpMsg = input("> ").strip().lower()
+                bot.sendMessage(QUES + ", ".join(randAltAns) + "?", from_)
+                altInpMsg, update_id, from_ = getMessage(update_id, from_)
+                altInpMsg = altInpMsg.strip().lower()
             if ("yes" in altInpMsg):
                 string = ""
                 if len(altans) != 0:
@@ -110,25 +153,20 @@ while(mainFlag):
                         if w in altInpMsg:
                             string += altans1[w] + "\n"
                     if string != "":
-                        print("Okay! Here you go.")
-                        print(string)
+                        bot.sendMessage("Okay! Here you go.", from_)
+                        bot.sendMessage(string, from_)
                     else:
-                        print("Can you repeat your question ?")
-                    #processedAltAns = process(altInpMsg)
-                    #ans, _  = search(processedAltAns, "data/abtCollege.json")
-                    #ans = "".join(list(ans))
-                    # if ans == "":
-                    #    print("".join(list(altans.values())))
-                    # else:
-                    #    print(ans)
+                        bot.sendMessage(
+                            "Can you repeat your question ?", from_)
+
             elif ("no" in altInpMsg):
-                print("Your choice.. I was just trying to help.")
+                bot.sendMessage(
+                    "Your choice.. I was just trying to help.", from_)
             else:
                 processedAltAns = process(altInpMsg)
                 ans, _ = search(processedAltAns, "data/abtCollege.json")
                 ans = "".join(list(ans))
                 if ans == "":
-                    print("I can't help you :(")
+                    bot.sendMessage("I can't help you :(", from_)
                 else:
-                    print(ans)
-                #print("Can you repeat what you just said ?")
+                    bot.sendMessage(ans, from_)

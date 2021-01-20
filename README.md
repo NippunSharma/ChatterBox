@@ -6,3 +6,6 @@ Currently the bot supports queries in two forms - voive message and text message
 
 1. speech_recognition
 2. ffmpeg
+
+sudo apt update
+sudo apt install ffmpeg
