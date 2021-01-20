@@ -3,10 +3,15 @@ import json
 import subprocess
 import speech_recognition as sr
 
+# API token of the bot.
 TOKEN = "1521698483:AAHTyz_22-Q48iYVU6NC5ynWMUhoPC6QREA"
 
 
 def speech2text(audio_file):
+    '''
+    This function take as input the name of an audio file and 
+    converts it into text string.
+    '''
     r = sr.Recognizer()
     query = sr.AudioFile(audio_file)
     with query as source:
