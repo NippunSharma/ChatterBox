@@ -29,7 +29,8 @@ while True:
         text = message["text"]
         # Currently bot sends the same text as typed by user.
         # Needs to be updated.
-        bot.sendMessage(text, from_)
+        response = ""
+        bot.sendMessage(response, from_)
     except:
         pass
 
