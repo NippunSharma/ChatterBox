@@ -1,5 +1,11 @@
 {   "st3rt":{
     "resp0nse": "Sorry I just can't find it ...",
+    "located": {
+        "resp0nse": "IIT Mandi is located in the foothills of Himalaya in Kamand,Mandi,Himachal Pradesh. It is only 40km from Kullu Airport."
+    },
+    "location": {
+        "resp0nse": "IIT Mandi is located in the foothills of Himalaya in Kamand,Mandi,Himachal Pradesh. It is only 40km from Kullu Airport."
+    },
     "gymkhana":
     {
         "resp0nse": "IIT Mandi Gymkhana has various societies based on student interest like Technical, Cultural, Sports, Literary, Academic, etc",
@@ -113,7 +119,7 @@
     },
     "courses": 
     {
-        "resp0nse": "Here we have information about the courses...\n",
+        "resp0nse": "Here at IIT Mandi, the course curriculum is highly practical driven. There are IC, DC, DE and FE courses.\n",
         "Project": {
             "resp0nse": "These courses are related to projects and practicums like Design Practicum, Major Technical Project etc.",
             "DP301P": {
