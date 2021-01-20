@@ -21,7 +21,7 @@ def speech2text(audio_file):
     try:
         print('Recognising....')
         text = r.recognize_google(audio)
-        print('User said: ', text)
+        # print('User said: ', text)
     except Exception as e:
         print("Could not understand")
         return None

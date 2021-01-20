@@ -25,7 +25,4 @@ def match(inp, filename):
     if maxSim == 0:
         return "Sorry, I cannot answer you... Some secrets are best not to be revealed :)"
     else:
-        print("Your question matched to the following question in database...")
-        print(bestQues)
-        print("Answer: ")
-        return ans
+        return("Your question matched to the following question in database...\n"+ bestQues + "\nAnswer: \n" + ans)
