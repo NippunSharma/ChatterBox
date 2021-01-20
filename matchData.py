@@ -1,9 +1,10 @@
 from pywsd.utils import lemmatize_sentence
 import pandas as pd
 
+
 def match(inp, filename):
     exclude = ["iit", "mandi", "!", "?", "-", ".", ",", "in", "at",
-                "on"]
+               "on"]
 
     for i in exclude:
         inp = inp.replace(i, "")

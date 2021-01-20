@@ -1,9 +1,0 @@
-{
-"intents":[
-    {"tag": "greeting",
-     "patterns": ["Hi", "Hey", "Is anyone there?", "Hello", "Hay"],
-     "responses": ["Hello", "Hi", "Hi there"]
-    },
-    {"tag": "goodbye",
-     "patterns": ["Bye", "See you later", "Goodbye"],
-     "responses": ["See you later", "Have a nice day", "Bye! Come back again"]}]}
