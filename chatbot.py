@@ -134,8 +134,11 @@ while(mainFlag):
             if "yes" in faq or "yup" in faq:
                 ansMatch = match(inputMsg, "data/final_concat.csv")
                 bot.sendMessage(ansMatch, from_)
+            elif "no" in faq:
+                bot.sendMessage(
+                    "Your choice.. I was just trying to help.", from_)
             else:
-                bot.sendMessage("Okay.", from_)
+                bot.sendMessage("Sorry, I am unable to answer that. Please ask me something else :)", from_)
         else:
             bot.sendMessage(ans, from_)
             randAltAns = choice(list(altans1.keys()),
@@ -148,7 +151,7 @@ while(mainFlag):
                 altInpMsg = altInpMsg.strip().lower()
             if ("yes" in altInpMsg):
                 string = ""
-                if len(altans) != 0:
+                if len(altans1) != 0:
                     for w in randAltAns:
                         if w in altInpMsg:
                             string += altans1[w] + "\n"
@@ -158,6 +161,7 @@ while(mainFlag):
                     else:
                         bot.sendMessage(
                             "Can you repeat your question ?", from_)
+
 
             elif ("no" in altInpMsg):
                 bot.sendMessage(
