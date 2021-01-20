@@ -1,0 +1,1614 @@
+{   "st3rt":{
+    "resp0nse": "Sorry I just can't find it ...",
+    "located": {
+        "resp0nse": "IIT Mandi is located in the foothills of Himalaya in Kamand,Mandi,Himachal Pradesh. It is only 40km from Kullu Airport."
+    },
+    "location": {
+        "resp0nse": "IIT Mandi is located in the foothills of Himalaya in Kamand,Mandi,Himachal Pradesh. It is only 40km from Kullu Airport."
+    },
+    "gymkhana":
+    {
+        "resp0nse": "IIT Mandi Gymkhana has various societies based on student interest like Technical, Cultural, Sports, Literary, Academic, etc",
+            "READ": {
+                "resp0nse": "This is the reading club of IIT Mandi."
+            },
+            "anime": {
+                "resp0nse": "This is the club for anime enthusiasts of IIT Mandi!"
+            },
+            "chess": {
+                "resp0nse": "This is the club for Chess players of IIT Mandi.\nGame Coordinator - Pragyanshu Chaudhary\nAchievements\n1. Gold in Rann Neeti 2019\n2. Silver in 2018 and Rann Neeti 2017\nEvents\n1. Rann Neeti\n2. Inter IIT"
+            },
+            "mountain": {
+                "resp0nse": "This is the Mountain Biking Club of IIT Mandi\nCo-ordinators\n1. Atul Jain\n2. Abhishek Singh\nEvents\n1. Long Rides (Parashar, Bijli Dev)\n2. Short Rides (Navlay)\nEmail : mtb@students.iitmandi.ac.in"
+            },
+            "biking": {
+                "resp0nse": "This is the Mountain Biking Club of IIT Mandi\nCo-ordinators\n1. Atul Jain\n2. Abhishek Singh\nEvents\n1. Long Rides (Parashar, Bijli Dev)\n2. Short Rides (Navlay)\nEmail : mtb@students.iitmandi.ac.in"
+            },
+            "hiking":
+            {
+                "resp0nse": "This is an adventure club which conducts hikes and treks in various places of Himachal Pradesh and surrounding states.\nCo-ordinators\n1. Zaidan Bhat\n2. Rohit Bhamu\n3. Mohit Kapoor\nEvents\n1. Hikes\n2. Treks\n3. Survival Camps\n4. Movie Screenings\n5. Talks\nEmail : hnt@iitmandi.ac.in"
+            },
+            "trekking":
+            {
+                "resp0nse": "This is an adventure club which conducts hikes and treks in various places of Himachal Pradesh and surrounding states.\nCo-ordinators\n1. Zaidan Bhat\n2. Rohit Bhamu\n3. Mohit Kapoor\nEvents\n1. Hikes\n2. Treks\n3. Survival Camps\n4. Movie Screenings\n5. Talks\nEmail : hnt@iitmandi.ac.in"
+            },
+        "academic": {
+            "resp0nse": "The Academic Society consists of the UG and PG Academic Council.",
+            "council": {
+                "resp0nse": "The UG Academic Council is an informal academic body, which accounts for the smooth communication between the Academic Affairs Secretary and other students.\nAcademic Affairs Secretary - Arnav Prasad\nEvents\n1. Vyarth Shastra\n2. Branch Introduction Session\n3. Academic Awareness Session\n4. Curriculum Explanation Session\n5. Semester Exchange Session\n6. Session for higher studies\nEmail : academic_secretary@students.iitmandi.ac.in"
+            }
+        },
+        "sports": {
+            "resp0nse": "The Sports Society coordinates all the sports activities at IIT Mandi.\nSports Secretary - Aakash Maurya\nAchievements\n1. Bronze in Table Tennis Women 2014\n2. Bronze in Cricket 2019\n3. 7 medals in individual Athletics events in 2018 and 2019\n4. 10th out of the 23 IITs in the Inter-IIT General Championship 2019\nEvents\n1. Freshers Sports Meet\n2. Hostel General Championship\n3. Aagaz\n4. KPL\n5. Rann-Neeti\n6. Sangram IIT Roorkee\n7. Sportstech IIT Delhi\n8. Inter-IIT Sports Meet\nEmail : sports_secretary@students.iitmandi.ac.in"
+        },
+        "research": {
+            "resp0nse": "The Research Society of IIT Mandi consists of various sub-societies like ACM, ACM-W, IEEE, SCRI, etc.",
+            "ACMW": {
+                "resp0nse": "The Student Chapter of Association for Computing Machinery for Women (ACM-W) which supports, celebrates and advocates for women in computing.\nChairperson : Ruchika Sharan\nVice-Chair : Nishita\nEmail : acmwchapter@students.iitmandi.ac.in"
+            },
+            "ACM": {
+                "resp0nse": "The Student Chapter of the Association for Computing Machinery (ACM) is a supportive community where computing helps solve tomorrow’s problems – where we use our knowledge and skills to advance the profession and make a positive impact.\nChairperson - Kartik Kathuria\nVice-Chair - Vyom Goel and Kairav Bansal\n\nEmail : acmchapter@students.iitmandi.ac.in"
+            },
+            "SCRI": {
+                "resp0nse": "Society for Collaborative Research and Innovation (SCRI) aims at providing a collaborative platform for extensive, effective and sustainable research and innovations.\nCo-ordinators - Manoj Kumar and Apoorav Singh Deo\nEvents\n1. Informative Talks\n2. Technical Talk Shows\n3. National Science Day 2k19\n4. Matlab Workshops\n5. 5WIP SCRI Introduction\nEmail : scri@students.iitmandi.ac.in"
+            }
+        },
+        "literary": {
+            "resp0nse": "Are you a secret poet? Are you the lawyer at home? Are you a general knowledge geek? Then, the Literary Society, IIT Mandi is the place for you! We define the literary culture of the IIT in the Himalayas! It consists of clubs like Writing Club, Qurosity, The Debating Club, etc\nEmail : literary_secretary@students.iitmandi.ac.in\nFB : https://www.facebook.com/literarysocietyiitmandi/\nInstagram : https://www.instagram.com/litcouncil_iitmandi/",
+            "qurosity": {
+                "resp0nse": "Qurosity is the quizzing club of IIT Mandi, filled with erudite members who have a staunch to learn or share their knowledge!\nCo-ordinators - Anwesh Das and Raman Soni\nAchievements\n1. Runner ups in India Quiz in Zeitgeist, IIT Ropar 2018\n2. 2nd place in Sport Quiz 2017\n3. 9th place out of 109 teams in India Quiz at Nihilanth 2017\n4. 5th place in Sports Quiz at Mood Indigo 2017\nEmail : quizzing_club@students.iitmandi.ac.in"
+            },
+            "writing": {
+                "resp0nse": "The writing club of IIT Mandi is a part of Literary Society comprising of the mini authors, poets, shaayars and creative writers of the campus.\nCo-ordinators - Ridhi Ratan and Madhumita V\nEvents\n1. Voice Your Thoughts\n2. Kuch Sunao Yaar\n3. Review Your Favourites\n4. Kalam ka Kissa\n5. Two Liners Challenge\n6. Ruvaan\nEmail : writing_club@students.iitmandi.ac.in"
+            },
+            "TSOD": {
+                "resp0nse": "The Society of Debaters(TSOD), IIT Mandi is a place where a group of people crowd together, to discuss, to argue and to facilitate their interest on various topics going all round the world.\nCo-ordinators - Yuvraj Singh Bishnoi and Devansh Kochar\nEvents\n1. Gandhigiri\n2. Nazaria\n3. Model United Nations\n4. Yuvatantra\n5. Bass Behas Karvalo\n6. Biggest Liar\n7. The British Parliament\n8. Ruvaan\nEmail : debating_club@students.iitmandi.ac.in"
+            }
+        },
+        "technical": {
+            "resp0nse": "Does coding excite you? Are you facinated by robots? Do you plan on becoming the next Warren Buffet? Then, the Technical Society, IIT Mandi is the place for you! We define the coding culture of the IIT in the Himalayas! It consists of clubs like KamandPrompt, Robotronics, E-Cell, STAC, Yantrik, etc",
+            "sae": {
+                "resp0nse": "The Society of Automotive Engineers aims to give everybody,who is interested and enthusiastic about automobiles, an exposure to technical and practical work involved in making a vehicle.\nCo-ordinators - Aditya Nautiyal and Nikhil Katnour\nAchievements\n1. Built IC Engine F1 racing car\nEmail : supra@students.iitmandi.ac.in\nFacebook : www.facebook.com/SAEiitmandi/"
+            },
+            "Yantrik": {
+                "resp0nse": "Yantrik Club aims at providing IIT Mandi students a platform for expressing and implementing their ideas in the field of Mechanical Engineering and expose them to the Mechanical and designing aspect of everyday things.\nCo-ordinators\n1. Tanmay Mahendrakar\n2. Akashansh Dhiman\n3. Ritwik Kamesh\nEvents\n1. Junkyard Wars\n2. Water Rocket Competition\n3. Indigenous Plane Challenge\nEmail : yantrik_club@iitmandi.ac.in\nWebsite : https://yantrikiitmandi.github.io/\nFB : https://www.facebook.com/yantrikclub"
+            },
+            "Robotronics": {
+                "resp0nse": "Robotronics Club aims to build a community which can think, play and make robots!\nCo-ordinators\n1. Dipanshu Verma\n2. Abhishek Parmar\n3. Pritish Chugh\nEvents\n1. Line Follower\n2. Maze Solver\n3. Robonox\n4. Blender Modelling\n5. Robowar\n6. Robo Soccer\n7. Drone Racing\n8. Drone Making Workshop\n9. IoT weekend workshops\n10. ROS Workshop\nEmail : robotronics@students.iitmandi.ac.in\nWebsite : https://www.facebook.com/groups/robotronix.iit.mandi\nFB : https://www.facebook.com/groups/robotronix.iit.mandi\nInstagram : https://www.facebook.com/groups/robotronix.iit.mandi"
+            },
+            "ECell": {
+                "resp0nse": "E-Cell is IIT Mandi’s in-campus organization that aims to instigate the entrepreneurial spirits among our community.\nCo-ordinators\n1. Khyati Agarwal\n2. Parshva Jain\n3. Sahas Goyal\nAchievements\n1. Won Bronze medal at Neenopals Case Study Challenge, Inter IIT Tech Meet 2019\n2. ECell partnered with Himalayan Startup Trek 2019\n3. Start up and MBA\n4. Ideas to Ventures\n5. Digital Marketing Bootcamp\n6. Silicon Valley Webinar\n7. ELeaders Workshop\n8. I Have an Idea\n9. IPL Auction\n10. The Case Study\n11. DISRUPT\n12. Netflix and Pitch\n13. The Curious Case of Corona"
+            },
+            "stac": {
+                "resp0nse": "S.T.A.C is the astronomy and astrophysics of IIT Mandi.\nCo-ordinators - Yuvraj Misra and Lalit Narayan Mudgal\nAchievements\n1. Bronze Medal in Star Cluster Identifier hackathon, Inter IIT Tech Meet 2018\n2. Exoplanet-Detection, Inter IIT Tech Meet 2017\n3. Orbital-Simulator, 5th place in Inter IIT Tech Meet 2017\n4. EinsteinPy\n5. MiraPy\nEvents\n1. Pleiades\n2. KPL Astrothon\n3. Quasar Desk AstroQuiz\n4. Introductory Remote Telescope Astrophotography\n5. AstraX\n6. Zenith\n7. Utkarsh\n8. Curiosity\n9. Whats Up\nEmail : stac@students.iitmandi.ac.in"
+            },
+            "astronomy": {
+                "resp0nse": "S.T.A.C is the astronomy and astrophysics of IIT Mandi.\nCo-ordinators - Yuvraj Misra and Lalit Narayan Mudgal\nAchievements\n1. Bronze Medal in Star Cluster Identifier hackathon, Inter IIT Tech Meet 2018\n2. Exoplanet-Detection, Inter IIT Tech Meet 2017\n3. Orbital-Simulator, 5th place in Inter IIT Tech Meet 2017\n4. EinsteinPy\n5. MiraPy\nEvents\n1. Pleiades\n2. KPL Astrothon\n3. Quasar Desk AstroQuiz\n4. Introductory Remote Telescope Astrophotography\n5. AstraX\n6. Zenith\n7. Utkarsh\n8. Curiosity\n9. Whats Up\nEmail : stac@students.iitmandi.ac.in"
+            },
+            "KamandPrompt": {
+                "resp0nse": "KamandPrompt is a group of clubs where students can acquire knowledge and gain experience in the field of Competitive Programming, Machine Learning, Artificial Intelligence and Development.\nCo-ordinators - Subhash Suman & Saransh Jain\nAchievements\n1. 9+6 Selections in GSoC 2020 (Students+Mentors)\n2. 5+2 Selections in GSoC 2019 (Students+Mentors)\n3. 11 Selections in GSoC 2018\n4. 3 Selections in GSoC 2017\n5. 2 Selections in GSoC 2016\nEmail : kamandprompt@students.iitmandi.ac.in"
+            },
+            "programming": {
+                "resp0nse": "KamandPrompt is a group of clubs where students can acquire knowledge and gain experience in the field of Competitive Programming, Machine Learning, Artificial Intelligence and Development.\nCo-ordinators - Subhash Suman & Saransh Jain\nAchievements\n1. 9+6 Selections in GSoC 2020 (Students+Mentors)\n2. 5+2 Selections in GSoC 2019 (Students+Mentors)\n3. 11 Selections in GSoC 2018\n4. 3 Selections in GSoC 2017\n5. 2 Selections in GSoC 2016\nEmail : kamandprompt@students.iitmandi.ac.in"
+            }
+        },
+        "cultural": {
+            "resp0nse": "Are you into dance moves? Are you a bathroom singer!? Are you a movie geek? Then, the Cultural Society, IIT Mandi is the place for you! We define the culture of the IIT in the Himalayas! It consists of clubs like UDC, Music Club, PMC, Art Geeks, Designauts, etc",
+            "artgeeks": {
+                "resp0nse": "Art Geeks is the official art club of IIT Mandi."
+            },
+            "designauts": {
+                "resp0nse": "Designauts is design club of IIT Mandi. Designauts focuses mainly on Graphic designing but is working successfully on including other forms of design such as Ui/Ux design, Animation, and 3d modelling.\nEvents\n1. Exodia\n2. Rann Neeti\n3. Design various websites, newsletters and magazines for our college and other clubs\n4. Almost all posters are designed by designauts\nInstagram : https://www.instagram.com/designauts.iitmandi"
+            },
+            "photography": {
+                "resp0nse": "Photography and Moviemaking Club (PMC) is the official photography and videography club of IIT Mandi.\nAchievements\n1st position in photography competition at IRIS 2018\n2nd position in 51-hour filmmaking at Cultural Meet 4.0\n3rd overall in filmmaking at Cultural Meet 4.0\n6th position in online moviemaking at Inter IIT Cultural Meet 3.0\nProjects & Events\n1. The Golden Shoe\n2. Dastak\n3. Nazariya\n4. Aagaz official aftermovie\n5. Interview with Prof Ramesh Oruganti\n6. IIT  Mandi campus la tournee\n7. Sports Camp summer 2018\n8. Freshers Intro 2018\n9. Seed\n10. Interview with Prof Timothy A Gonsalves\n11. Dark\n12. Independence Day Tribute\n13. Freshers Intro 2019\n14. 7th Convocation IIT Mandi\n15. Loser\n16. The Link\n17. Sapne\n18. Interview with Mr Atharv Amir Khan\n19. Elle\n20. Au Revoir\n21. Nikon Online Wildlife Workshop\n22. Memoirs Father and Son\n23. The Bridge\n24. Freshers Intro 2020\nYouTube : https://www.youtube.com/channel/UCr64cAab6ofazCq-YU_6Ucg%7C"
+            },
+            "music": {
+                "resp0nse": "Music Club IIT Mandi is a club that consists of people passionate about music. Music Club strives to provide a platform for the students to express their musical talent, be it singing, playing instruments, sound mixing, etc.\nCo-ordinators\n1. Aniruddha Prakash\n2. Mayank Jindal\n3. Naveen Saisreenivas Thota\nAchievements\n1. 2nd in Solo Singing, Inter IIT Cult Meet 2018\n2. 6th position in Band, Inter IIT Cult Meet 2018\nEvents\n1. Jam Sessions\n2. Aagman\n3. Inter IIT Cult Meet\n4. Foundation Day\n5. Exodia\n6. Exuberance\nEmail : musicclub@students.iitmandi.ac.in\nYouTube : http://youtube.com/c/MusicClubIITMandi\nFB : http://youtube.com/c/MusicClubIITMandi\nInstagram : http://youtube.com/c/MusicClubIITMandi"
+            },
+            "drama": {
+                "resp0nse": "Drama Club of IIT Mandi is an organisation that comprises of actors, scriptwriters and creatives who have a keen interest in various forms of dramatics and more are eager enough to express themselves.\nCo-ordinators\n1. Bhumanyu Goyal\n2. Shivani Pandey\n3. Samarth Neema\n4. Aarushi Gajri\nAchievements\n1. Third position in Street Play Competition in Cultural Meet 2019\n2. Seventh position with special mention in Mime Competition in Cultural Meet 2019\n3. Fourth position in Street Play Competition in Cultural Meet 2017\nEvents\n1. Club Intro to Freshers\n2. Aakarshan\n3. Independence Day\n4. Freshers Workshop\n5. Annual Street Play Production\n6. Stage Play\n7. Mime\n8. Aaj Main Udega\n9. Republic Day\n10. Exodia\nEmail : dramaclub@students.iitmandi.ac.in"
+            },
+            "gustaakh": {
+                "resp0nse": "Drama Club of IIT Mandi is an organisation that comprises of actors, scriptwriters and creatives who have a keen interest in various forms of dramatics and more are eager enough to express themselves.\nCo-ordinators\n1. Bhumanyu Goyal\n2. Shivani Pandey\n3. Samarth Neema\n4. Aarushi Gajri\nAchievements\n1. Third position in Street Play Competition in Cultural Meet 2019\n2. Seventh position with special mention in Mime Competition in Cultural Meet 2019\n3. Fourth position in Street Play Competition in Cultural Meet 2017\nEvents\n1. Club Intro to Freshers\n2. Aakarshan\n3. Independence Day\n4. Freshers Workshop\n5. Annual Street Play Production\n6. Stage Play\n7. Mime\n8. Aaj Main Udega\n9. Republic Day\n10. Exodia\nEmail : dramaclub@students.iitmandi.ac.in"
+            },
+            "dance": {
+                "resp0nse": "Uhl Dance Crew (UDC) is the dance club of IIT Mandi. The club aims to promote the culture and spirit of dance in the college, and motivate all dance enthusiasts to share their talent.\nAchievements\n1. 3rd in Exodia 2015\n2. 3rd in Exodia 2016\n3. 3rd in Exodia 2017\n4. 2nd in Smack That, Zeitgesit 2017\n5. In top 5 Inter IIT Cultural Meet 2018\nEvents\n1. Independance Day\n2. Exuberance\n3. Breakout\n4. Exodia\n5. Foundation Day\n6. Aakarshan\n7. Inter IIT Cultural Meet\n8. Flash Mob\nEmail : danceclub@students.iitmandi.ac.in"
+            }
+        }
+    },
+    "courses": 
+    {
+        "resp0nse": "Here at IIT Mandi, the course curriculum is highly practical driven. There are IC, DC, DE and FE courses.\n",
+        "Project": {
+            "resp0nse": "These courses are related to projects and practicums like Design Practicum, Major Technical Project etc.",
+            "DP301P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: DP301P\nCourse Title: Interactive Socio-Technical Practicum\nRecent Instructors: Ramna Thakur\nCategory: DP\n"
+            },
+            "DP514P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: DP514P\nCourse Title: Post Graduate Project-II\nRecent Instructors: Jaspreet Kaur Randhawa,Rajesh Ghosh\nCategory: DP\n"
+            },
+            "DP521P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: DP521P\nCourse Title: Post Graduate Project II\nRecent Instructors: \nCategory: DP\n"
+            },
+            "DP502P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: DP502P\nCourse Title: Design Practicum II\nRecent Instructors: Pradeep C Parameswaran\nCategory: DP\n"
+            },
+            "DP505P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: DP505P\nCourse Title: Main Project\nRecent Instructors: Prem Felix Siril\nCategory: DP\n"
+            },
+            "DP402P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: DP402P\nCourse Title: Major Technical Project\nRecent Instructors: powarDPS,Ramna\nCategory: DP\n"
+            },
+            "DP401P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: DP401P\nCourse Title: Major Technical Project\nRecent Instructors: \nCategory: DP\n"
+            },
+            "DP500P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: DP500P\nCourse Title: Research Practicum\nRecent Instructors: JaspreetKaur\nCategory: DP\n"
+            },
+            "DP512P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: DP512P\nCourse Title: Industrial Training\nRecent Instructors: RG/JKR\nCategory: DP\n"
+            },
+            "DP513P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: DP513P\nCourse Title: Post Graduate Project-I\nRecent Instructors: JKR/RG\nCategory: DP\n"
+            },
+            "DP5101P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: DP5101P\nCourse Title: Design Practicum - 1\nRecent Instructors: AditiHalder\nCategory: DP\n"
+            },
+            "DP503P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: DP503P\nCourse Title: Basic Mechanical and Electrical Workshop\nRecent Instructors: PremFelix\nCategory: DP\n"
+            },
+            "DP504P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: DP504P\nCourse Title: Mini Project\nRecent Instructors: SubrataGhosh\nCategory: DP\n"
+            }
+        },
+        "RM": {
+            "resp0nse": "These courses are related to Research Methodologies like RM600.\n",
+            "RM600": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: RM600\nCourse Title: Research Methodology\nRecent Instructors: RahulVaish\nCategory: RM\n"
+            }
+        },
+        "Civil": {
+            "resp0nse": "These courses are for the Civil branch like Geotechnical Engineering (CE302).\n",
+            "CE252": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CE252\nCourse Title: Geology and Geomorphology\nRecent Instructors: Dericks Praise Shukla\nCategory: CE\n"
+            },
+            "CE301": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CE301\nCourse Title: Strength of Materials and Structures\nRecent Instructors: sandip\nCategory: CE\n"
+            },
+            "CE302": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CE302\nCourse Title: Geotechnical Engineering\nRecent Instructors: Mousumi Mukherjee\nCategory: CE\n"
+            },
+            "CE401": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CE401\nCourse Title: Design of Steel Structures\nRecent Instructors: RajneeshSharma\nCategory: CE\n"
+            },
+            "CE505": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CE505\nCourse Title: Engineering of Ground Modification\nRecent Instructors: Venkata Uday Kala\nCategory: CE\n"
+            },
+            "CE506": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CE506\nCourse Title: Analysis of Indeterminate Structures\nRecent Instructors: Maheshreddy Gade\nCategory: CE\n"
+            },
+            "CE552": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CE552\nCourse Title: Concrete Technology\nRecent Instructors: Kaustav Sarkar\nCategory: CE\n"
+            },
+            "CE586P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CE586P\nCourse Title: Mini Project\nRecent Instructors: mousumi\nCategory: CE\n"
+            },
+            "CE601": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CE601\nCourse Title: Geo-Informatics\nRecent Instructors: Dericks Praise Shukla\nCategory: CE\n"
+            },
+            "CE689P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CE689P\nCourse Title: Post Graduate Project \u2013 II\nRecent Instructors: Sandip Saha\nCategory: CE\n"
+            },
+            "CE610": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CE610\nCourse Title: Analysis and Design for Earthquake Resistant Strucutres\nRecent Instructors: Sandip Saha\nCategory: CE\n"
+            },
+            "CE612": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CE612\nCourse Title: Theory of Plates and Shells\nRecent Instructors: Tarun Kant LC: Sandip\nCategory: CE\n"
+            },
+            "CE201": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CE201\nCourse Title: Surveying: Traditional and Digital\nRecent Instructors: DericksPraise\nCategory: CE\n"
+            },
+            "CE251": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CE251\nCourse Title: Hydraulics Engineering\nRecent Instructors: RahulVaish\nCategory: CE\n"
+            },
+            "CE587P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CE587P\nCourse Title: Industrial/Research Internship\nRecent Instructors: RajneeshSharma\nCategory: CE\n"
+            },
+            "CE303": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CE303\nCourse Title: Water Resources Engineering\nRecent Instructors: DeepakSwami\nCategory: CE\n"
+            },
+            "CE304P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CE304P\nCourse Title: Hydraulics Engineering Laboratory\nRecent Instructors: DeepakSwami\nCategory: CE\n"
+            },
+            "CE305P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CE305P\nCourse Title: Environment and Earth Science Lab\nRecent Instructors: AJP\nCategory: CE\n"
+            },
+            "CE351": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CE351\nCourse Title: Design of Reinforced Concrete Structures\nRecent Instructors: Sandipkumar\nCategory: CE\n"
+            },
+            "CE352": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CE352\nCourse Title: Transportation Engineering\nRecent Instructors: VenkataUday\nCategory: CE\n"
+            },
+            "CE353P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CE353P\nCourse Title: Civil Engineering Drawing\nRecent Instructors: SubhamoyVenkataUday\nCategory: CE\n"
+            },
+            "CE354P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CE354P\nCourse Title: Building and Pavement Materials Laboratory\nRecent Instructors: RajneeshSharma\nCategory: CE\n"
+            },
+            "CE402": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CE402\nCourse Title: Geotechnical Engineering II\nRecent Instructors: Mousumi/MG\nCategory: CE\n"
+            },
+            "CE508": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CE508\nCourse Title: Photogeology and Photogrammetry\nRecent Instructors: DericksPraise\nCategory: CE\n"
+            },
+            "CE504": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CE504\nCourse Title: Slope stability and Retaining structures\nRecent Instructors: MousumiMukherjee\nCategory: CE\n"
+            },
+            "CE510": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CE510\nCourse Title: Modelling and Simulation in Water Resources Engineering\nRecent Instructors: TBD\nCategory: CE\n"
+            },
+            "CE511": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CE511\nCourse Title: Structural Dynamics with Application to Earthquake Engineering\nRecent Instructors: Subhamoy\nCategory: CE\n"
+            },
+            "CE555": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CE555\nCourse Title: Advanced Design of Structures\nRecent Instructors: KaustavSarkar\nCategory: CE\n"
+            },
+            "CE556P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CE556P\nCourse Title: Structural Engineering Laboratory\nRecent Instructors: Sandipkumar\nCategory: CE\n"
+            },
+            "CE688P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CE688P\nCourse Title: Post Graduate Project-I\nRecent Instructors: Sandipkumar\nCategory: CE\n"
+            },
+            "CE557": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CE557\nCourse Title: Solid Mechanics in Structural Engineering\nRecent Instructors: MaheshreddyGade\nCategory: CE\n"
+            },
+            "CE501": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CE501\nCourse Title: Remote Sensing\nRecent Instructors: DericksPraise\nCategory: CE\n"
+            },
+            "CE591": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CE591\nCourse Title: Selected Topics in Structural Engineering: Detailing Concrete Structures with the help of Strut and Tie Models\nRecent Instructors: Prof. Balthasar Novak (LC Sandip Saha)\nCategory: CE\n"
+            }
+        },
+        "Humanities": {
+            "resp0nse": "Humanities, Social Sciences and Finance like German (HS342), Principles of Economics (HS202).\n",
+            "HS208": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS208\nCourse Title: English II\nRecent Instructors: suman\nCategory: HS\n"
+            },
+            "HS342": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS342\nCourse Title: German I\nRecent Instructors: neha\nCategory: HS\n"
+            },
+            "HS342_2": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS342_2\nCourse Title: German I\nRecent Instructors: Gokul\nCategory: HS\n"
+            },
+            "HS105_1": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS105_1\nCourse Title: Basic Communication Skills\nRecent Instructors: Devika Sethi\nCategory: HS\n"
+            },
+            "HS105_2": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS105_2\nCourse Title: Basic Communication Skills\nRecent Instructors: Aruna Bommareddi\nCategory: HS\n"
+            },
+            "HS202": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS202\nCourse Title: Principles of Economics\nRecent Instructors: ShyamasreeDasgupta,VR\nCategory: HS\n"
+            },
+            "HS206": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS206\nCourse Title: Public Speaking and Debating Skills\nRecent Instructors: Gokul\nCategory: HS\n"
+            },
+            "HS252": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS252\nCourse Title: Introduction to Psychology\nRecent Instructors: PBLC:VD\nCategory: HS\n"
+            },
+            "HS344": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS344\nCourse Title: Introduction to Sociology\nRecent Instructors: Nilamber Chhetri\nCategory: HS\n"
+            },
+            "HS304": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS304\nCourse Title: Organizational Management\nRecent Instructors: Saumya Dixit\nCategory: HS\n"
+            },
+            "HS481": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS481\nCourse Title: International Economics\nRecent Instructors: Ramna Thakur\nCategory: HS\n"
+            },
+            "HS372": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS372\nCourse Title: German IV\nRecent Instructors: Gokul\nCategory: HS\n"
+            },
+            "HS393": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS393\nCourse Title: Technology and World History:1400 to the present\nRecent Instructors: Rajeshwari Dutt\nCategory: HS\n"
+            },
+            "HS510": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS510\nCourse Title: Essentials of Entrepreneurship\nRecent Instructors: Satvasheel Powar\nCategory: HS\n"
+            },
+            "HS530": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS530\nCourse Title: Planning, Welfare and Development\nRecent Instructors: surya/MVD\nCategory: HS\n"
+            },
+            "HS533": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS533\nCourse Title: Urban Development\nRecent Instructors: Surya Prakash\nCategory: HS\n"
+            },
+            "HS536": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS536\nCourse Title: Social Movements in India\nRecent Instructors: Nilamber Chhetri\nCategory: HS\n"
+            },
+            "HS539": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS539\nCourse Title: Post War Germany-Politics, Society and Culture\nRecent Instructors: Neha Kaushik\nCategory: HS\n"
+            },
+            "HS551": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS551\nCourse Title: Financial Management\nRecent Instructors: Puran Singh\nCategory: HS\n"
+            },
+            "HS551P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS551P\nCourse Title: Development Studies Practicum I\nRecent Instructors: surya\nCategory: HS\n"
+            },
+            "HS541": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS541\nCourse Title: Technical Communication\nRecent Instructors: Suman S\nCategory: HS\n"
+            },
+            "HS554P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS554P\nCourse Title: Dissertation\nRecent Instructors: Shyamasree Dasgupta\nCategory: HS\n"
+            },
+            "HS550": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS550\nCourse Title: Statistical Methods\nRecent Instructors: Shyamasree Dasgupta\nCategory: HS\n"
+            },
+            "HS523": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS523\nCourse Title: Decision Making for Social Change\nRecent Instructors: Varun Dutt\nCategory: HS\n"
+            },
+            "HS623": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS623\nCourse Title: Advance Social Psychology\nRecent Instructors: Saumya Dixit\nCategory: HS\n"
+            },
+            "HS608": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS608\nCourse Title: Modern Western Social Thought\nRecent Instructors: Manu V Devadevan\nCategory: HS\n"
+            },
+            "HS611": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS611\nCourse Title: Research Writing\nRecent Instructors: Devika/RD\nCategory: HS\n"
+            },
+            "HS591": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS591\nCourse Title: Special Topics in Higher Education and Development\nRecent Instructors: LC: Ramna\nCategory: HS\n"
+            },
+            "HS602": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS602\nCourse Title: Indian Writing in English\nRecent Instructors: Suman S\nCategory: HS\n"
+            },
+            "HS106": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS106\nCourse Title: English I\nRecent Instructors: NehaKaushik\nCategory: HS\n"
+            },
+            "HS352": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS352\nCourse Title: German II\nRecent Instructors: \nCategory: HS\n"
+            },
+            "HS105": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS105\nCourse Title: Basic Communication Skills\nRecent Instructors: \nCategory: HS\n"
+            },
+            "HS205": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS205\nCourse Title: Financial Accounting\nRecent Instructors: PuranSingh\nCategory: HS\n"
+            },
+            "HS263": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS263\nCourse Title: Popular Culture in Modern India : A Historical Perspective\nRecent Instructors: DevikaSethi\nCategory: HS\n"
+            },
+            "HS358": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS358\nCourse Title: Science Writing\nRecent Instructors: ArunaBommareddi\nCategory: HS\n"
+            },
+            "HS391": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS391\nCourse Title: Introduction to World History\nRecent Instructors: RajeshwariDutt\nCategory: HS\n"
+            },
+            "HS461": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS461\nCourse Title: Consumer Behavior\nRecent Instructors: SD\nCategory: HS\n"
+            },
+            "HS522": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS522\nCourse Title: Research Methodology to Social Science\nRecent Instructors: surya,SDG\nCategory: HS\n"
+            },
+            "HS525": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS525\nCourse Title: History of Development Thoughts\nRecent Instructors: SDG,RD\nCategory: HS\n"
+            },
+            "HS526": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS526\nCourse Title: Human Geography: A Western Himalayan Perspective\nRecent Instructors: Devika/Ramna\nCategory: HS\n"
+            },
+            "HS527": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS527\nCourse Title: Indian Social Structure and Development\nRecent Instructors: NC\nCategory: HS\n"
+            },
+            "HS528": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS528\nCourse Title: Information Technology and Development\nRecent Instructors: VD/SRC\nCategory: HS\n"
+            },
+            "HS529": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS529\nCourse Title: Natural Resource and Development\nRecent Instructors: Powar/Atul/SKM\nCategory: HS\n"
+            },
+            "HS552P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS552P\nCourse Title: Development Studies Practicum 2\nRecent Instructors: Suman S\nCategory: HS\n"
+            },
+            "HS535": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS535\nCourse Title: Financial Inclusion in India\nRecent Instructors: PuranSingh\nCategory: HS\n"
+            },
+            "HS553P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS553P\nCourse Title: Field Study\nRecent Instructors: ShyamasreeDasgupta\nCategory: HS\n"
+            },
+            "HS538": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS538\nCourse Title: Development Economics\nRecent Instructors: Ramna\nCategory: HS\n"
+            },
+            "HS537": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS537\nCourse Title: Post-Reform India\nRecent Instructors: surya\nCategory: HS\n"
+            },
+            "HS620": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS620\nCourse Title: Popular Narratives\nRecent Instructors: Suman S\nCategory: HS\n"
+            },
+            "HS621": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS621\nCourse Title: Advance Qualitative Research Methods\nRecent Instructors: ManuV\nCategory: HS\n"
+            },
+            "HS631": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS631\nCourse Title: Historical Theory and Methodology\nRecent Instructors: ManuV\nCategory: HS\n"
+            },
+            "HS362": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: HS362\nCourse Title: German III\nRecent Instructors: \nCategory: HS\n"
+            }
+        },
+        "Computer": {
+            "resp0nse": "These courses are for the Computer Science branch like Data Structures and Algorithms (CS202), Deep Learning and Applications (CS671).\n",
+            "CS201": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CS201\nCourse Title: Computer Organization\nRecent Instructors: SrinivasBodapati\nCategory: CS\n"
+            },
+            "CS201P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CS201P\nCourse Title: Computer Organization Laboratory\nRecent Instructors: SrinivasBodapati\nCategory: CS\n"
+            },
+            "CS302": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CS302\nCourse Title: Paradigms of Programming\nRecent Instructors: Manas Thakur\nCategory: CS\n"
+            },
+            "CS304": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CS304\nCourse Title: Formal Languages and Automata Theory\nRecent Instructors: AstridKhien\nCategory: CS\n"
+            },
+            "CS307": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CS307\nCourse Title: Systems Practicum\nRecent Instructors: Arti Kashyap\nCategory: CS\n"
+            },
+            "CS309": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CS309\nCourse Title: Information and Database Systems\nRecent Instructors: Sriram Kailasam\nCategory: CS\n"
+            },
+            "CS403": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CS403\nCourse Title: Algorithm Design and Analysis\nRecent Instructors: Rameshwar Pratap\nCategory: CS\n"
+            },
+            "CS508": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CS508\nCourse Title: Introduction to Heterogeneous Computing\nRecent Instructors: Dileep A. D\nCategory: CS\n"
+            },
+            "CS549": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CS549\nCourse Title: Computer Network Analysis\nRecent Instructors: sreeTimothy A Gonsalves\nCategory: CS\n"
+            },
+            "CS660": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CS660\nCourse Title: Data Mining for Decision Making\nRecent Instructors: Varun Dutt\nCategory: CS\n"
+            },
+            "CS671": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CS671\nCourse Title: Deep Learning and Applications\nRecent Instructors: Aditya Nigam\nCategory: CS\n"
+            },
+            "CS591": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CS591\nCourse Title: Selected Topics in Android Internals and Security\nRecent Instructors: Samar Agnihotri,Prabhakar Mateti\nCategory: CS\n"
+            },
+            "CS571": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CS571\nCourse Title: Programming Practicum\nRecent Instructors: RP\nCategory: CS\n"
+            },
+            "CS594": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CS594\nCourse Title: Introduction to Computer Graphics and Design\nRecent Instructors: Jinesh Macchar\nCategory: CS\n"
+            },
+            "CS545": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CS545\nCourse Title: Software Design Patterns\nRecent Instructors: B. D. Chaudhary,Varun Jaypal\nCategory: CS\n"
+            },
+            "CS202": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CS202\nCourse Title: Data Structure and Algorithms\nRecent Instructors: AdityaNigam\nCategory: CS\n"
+            },
+            "CS207": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CS207\nCourse Title: Applied Database Practicum\nRecent Instructors: VarunDutt\nCategory: CS\n"
+            },
+            "CS208": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CS208\nCourse Title: Mathematical Foundations of Computer Science\nRecent Instructors: SamarAgnihotri\nCategory: CS\n"
+            },
+            "CS310": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CS310\nCourse Title: Introduction to Communicating Distributed Processes\nRecent Instructors: SriramKailasam\nCategory: CS\n"
+            },
+            "CS308": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CS308\nCourse Title: Large Applications Practicum\nRecent Instructors: B.D.,PadmanabhanRajan\nCategory: CS\n"
+            },
+            "CS502P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CS502P\nCourse Title: Basics of Data Science\nRecent Instructors: RikRani,TimothyA\nCategory: CS\n"
+            },
+            "CS669": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CS669\nCourse Title: Pattern Recognition\nRecent Instructors: AB\nCategory: CS\n"
+            },
+            "CS544": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CS544\nCourse Title: Formal Concept Analysis: Theory and Practice\nRecent Instructors: SriramKailasam\nCategory: CS\n"
+            },
+            "CS593": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CS593\nCourse Title: Special Topics in Compiler Design\nRecent Instructors: ManasThakur\nCategory: CS\n"
+            },
+            "CS561": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CS561\nCourse Title: Map Reduce and Big Data\nRecent Instructors: ArtiKashyap\nCategory: CS\n"
+            },
+            "CS523": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CS523\nCourse Title: Verification of Reactive Systems\nRecent Instructors: AstridKhien\nCategory: CS\n"
+            },
+            "CS520P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CS520P\nCourse Title: Special topics in structural Engg.\nRecent Instructors: Sandip Saha\nCategory: CS\n"
+            }
+        },
+        "EM": {
+            "resp0nse": "These courses are there.\n",
+            "EM651": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EM651\nCourse Title: Photovoltic Materials and Fabrication\nRecent Instructors: Kunal Ghosh\nCategory: EM\n"
+            }
+        },
+        "XX": {
+            "resp0nse": "These courses are there.\n",
+            "XX599": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: XX599\nCourse Title: Independent Study\nRecent Instructors: SCEE Faculty\nCategory: XX\n"
+            },
+            "XX591": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: XX591\nCourse Title: Selected Topics in \u201cSynthetic Biology: with special applications to Metabolic Engineering\nRecent Instructors: Guhan Jayaraman\nCategory: XX\n"
+            }
+        },
+        "EN": {
+            "resp0nse": "These courses are energy related like EN611, EN503 etc.\n",
+            "EN611": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EN611\nCourse Title: Durability Behaviour of Energy Materials\nRecent Instructors: Jaspreet Kaur Randhawa\nCategory: EN\n"
+            },
+            "EN612": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EN612\nCourse Title: Structure-Property Correlation in Materials for Energy Applications\nRecent Instructors: Rik Rani Ghosh\nCategory: EN\n"
+            },
+            "EN501": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EN501\nCourse Title: Energy Sources and Power Plants\nRecent Instructors: Atul\nCategory: EN\n"
+            },
+            "EN502": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EN502\nCourse Title: Emerging Energy Sources\nRecent Instructors: SPowar\nCategory: EN\n"
+            },
+            "EN503": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EN503\nCourse Title: Energy Storage Technologies\nRecent Instructors: RikRani\nCategory: EN\n"
+            },
+            "EN504": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EN504\nCourse Title: Energy:Environment Policy and Law\nRecent Instructors: ShyamasreeDasgupta,VR\nCategory: EN\n"
+            },
+            "EN505P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EN505P\nCourse Title: Energy Systems Laboratory\nRecent Instructors: RikRani,ViswanathBalakrishnan,AtulSPowar\nCategory: EN\n"
+            },
+            "EN613": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EN613\nCourse Title: Creep-Fatigue Interaction\nRecent Instructors: ViswanathBalakrishnan\nCategory: EN\n"
+            }
+        },
+        "Biotech": {
+            "resp0nse": "These courses are related to the Biotech branch like Analytical Biotechniques (BY514).\n",
+            "BY514": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: BY514\nCourse Title: Analytical Biotechniques\nRecent Instructors: Amit Jaiswal\nCategory: BY\n"
+            },
+            "BY515": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: BY515\nCourse Title: Molecular Biotechnology\nRecent Instructors: Rajanish Giri\nCategory: BY\n"
+            },
+            "BY504": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: BY504\nCourse Title: Metabolic Systems Biology\nRecent Instructors: Shyam K Masakapalli\nCategory: BY\n"
+            },
+            "BY613": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: BY613\nCourse Title: Metagenomics, and Next Generation Sequencing Technologies\nRecent Instructors: Tulika P Srivastava\nCategory: BY\n"
+            },
+            "BY503": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: BY503\nCourse Title: Cellular Fuel and Cellular Communication\nRecent Instructors: Prosenjit Mondal\nCategory: BY\n"
+            },
+            "BY517": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: BY517\nCourse Title: Proteomics\nRecent Instructors: New Bio-faculties\nCategory: BY\n"
+            },
+            "BY518": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: BY518\nCourse Title: Disease Biology\nRecent Instructors: Amit Prasad\nCategory: BY\n"
+            },
+            "BY505": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: BY505\nCourse Title: Nano-Biotechnology\nRecent Instructors: Amit Jaiswal\nCategory: BY\n"
+            },
+            "BY522P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: BY522P\nCourse Title: Analytical and Molecular Biotechnology Lab\nRecent Instructors: Amit Jaiswal,Rajanish Giri\nCategory: BY\n"
+            },
+            "BY524P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: BY524P\nCourse Title: Medical and Nanobiotechnology Lab\nRecent Instructors: AP/PM/Rajanish/AJ\nCategory: BY\n"
+            },
+            "BY526": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: BY526\nCourse Title: IPR and Biosafety\nRecent Instructors: Prosenjit Mondal\nCategory: BY\n"
+            },
+            "BY599": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: BY599\nCourse Title: Post Graduate Project II\nRecent Instructors: SKM & PM Coordinators\nCategory: BY\n"
+            },
+            "BY510": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: BY510\nCourse Title: Advanced Cell Biology\nRecent Instructors: ProsenjitMondal\nCategory: BY\n"
+            },
+            "BY511": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: BY511\nCourse Title: Cell Physiology in health and disease\nRecent Instructors: AmitPrasad\nCategory: BY\n"
+            },
+            "BY512": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: BY512\nCourse Title: Quantitative and computational Biology\nRecent Instructors: TulikaP\nCategory: BY\n"
+            },
+            "BY513": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: BY513\nCourse Title: Cellular Bioprocess Technology\nRecent Instructors: ShyamK\nCategory: BY\n"
+            },
+            "BY520P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: BY520P\nCourse Title: Cell Biology and Physiology\nRecent Instructors: AP/PM\nCategory: BY\n"
+            },
+            "BY521P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: BY521P\nCourse Title: Computational Biology and Cellular Bioprocess Technology Lab\nRecent Instructors: TPS/SKM\nCategory: BY\n"
+            },
+            "BY525": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: BY525\nCourse Title: Seminar\nRecent Instructors: BioX faculties (RG will coordinate)\nCategory: BY\n"
+            },
+            "BY598": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: BY598\nCourse Title: Post Graduate Project-I\nRecent Instructors: BioX and other faculties (PM/SKM will coordinate)\nCategory: BY\n"
+            }
+        },
+        "Mechanical": {
+            "resp0nse": "These courses are related to Mechanical branch like Fluid Mechanics (ME210).\n",
+            "ME210": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: ME210\nCourse Title: Fluid Mechanics\nRecent Instructors: Pradeep Kumar (SE)\nCategory: ME\n"
+            },
+            "ME307": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: ME307\nCourse Title: Energy Conversion Devices\nRecent Instructors: Atul Dhar\nCategory: ME\n"
+            },
+            "ME309": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: ME309\nCourse Title: Theory of Machines\nRecent Instructors: Vishal Singh Chauhan\nCategory: ME\n"
+            },
+            "ME312P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: ME312P\nCourse Title: Design Lab. II\nRecent Instructors: HP,AG\nCategory: ME\n"
+            },
+            "ME506": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: ME506\nCourse Title: Fundamentals of Fracture Mechanics\nRecent Instructors: Rajesh Ghosh\nCategory: ME\n"
+            },
+            "ME513": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: ME513\nCourse Title: FEM in Engineering (with BoA after CIG approval)\nRecent Instructors: Rajesh Ghosh\nCategory: ME\n"
+            },
+            "ME620": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: ME620\nCourse Title: Modelling and Simulations\nRecent Instructors: Amit Shukla,Mohammad Talha\nCategory: ME\n"
+            },
+            "ME615": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: ME615\nCourse Title: Applied Computational Fluid Dynamics\nRecent Instructors: P Anil Kishan\nCategory: ME\n"
+            },
+            "ME617": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: ME617\nCourse Title: Mechanics of Composite Materials\nRecent Instructors: Rajneesh Sharma\nCategory: ME\n"
+            },
+            "ME626": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: ME626\nCourse Title: Acoustics\nRecent Instructors: Arpan Gupta\nCategory: ME\n"
+            },
+            "ME633": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: ME633\nCourse Title: Design of Energy Systems\nRecent Instructors: ParmodKumar\nCategory: ME\n"
+            },
+            "ME451": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: ME451\nCourse Title: Refrigeration and Air Conditioning\nRecent Instructors: Rahul Vaish\nCategory: ME\n"
+            },
+            "ME452": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: ME452\nCourse Title: Robotics and Control\nRecent Instructors: Amit Shukla\nCategory: ME\n"
+            },
+            "ME631": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: ME631\nCourse Title: Heat Transfer and Fluid Flow in Energy Systems\nRecent Instructors: Sumit Sinha Ray\nCategory: ME\n"
+            },
+            "ME635": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: ME635\nCourse Title: Manufacturing for Energy Systems\nRecent Instructors: swati\nCategory: ME\n"
+            },
+            "ME509": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: ME509\nCourse Title: Nano-manufacturing\nRecent Instructors: JaspreetKaur\nCategory: ME\n"
+            },
+            "ME205": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: ME205\nCourse Title: Machine Drawing\nRecent Instructors: MohammadTalha\nCategory: ME\n"
+            },
+            "ME206": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: ME206\nCourse Title: Mechanics of Solids\nRecent Instructors: RajeshGhosh\nCategory: ME\n"
+            },
+            "ME303": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: ME303\nCourse Title: Heat Transfer\nRecent Instructors: GB\nCategory: ME\n"
+            },
+            "ME308": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: ME308\nCourse Title: Manufacturing Engineering\nRecent Instructors: SunnyZafar\nCategory: ME\n"
+            },
+            "ME311P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: ME311P\nCourse Title: Design Lab I\nRecent Instructors: MohammadTalha\nCategory: ME\n"
+            },
+            "ME305": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: ME305\nCourse Title: Design of Machine Elements\nRecent Instructors: HimanshuPathak\nCategory: ME\n"
+            },
+            "ME310P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: ME310P\nCourse Title: Thermo-fluid Laboratory\nRecent Instructors: PradeepKumar\nCategory: ME\n"
+            },
+            "ME351": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: ME351\nCourse Title: Management of Manufacturing and Logistics Systems\nRecent Instructors: swati\nCategory: ME\n"
+            },
+            "ME504": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: ME504\nCourse Title: Numerical Methods for Engineering Computation\nRecent Instructors: ArpanGupta\nCategory: ME\n"
+            },
+            "ME601": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: ME601\nCourse Title: Advanced Finite Element Methods\nRecent Instructors: S.C.Jain,RajeevKumar\nCategory: ME\n"
+            },
+            "ME602": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: ME602\nCourse Title: Mechanical Vibration\nRecent Instructors: Amit\nCategory: ME\n"
+            },
+            "ME603": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: ME603\nCourse Title: Advanced Fluid Mechanics\nRecent Instructors: PAnil\nCategory: ME\n"
+            },
+            "ME610": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: ME610\nCourse Title: Advanced Thermodynamics\nRecent Instructors: PAnil\nCategory: ME\n"
+            },
+            "ME625": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: ME625\nCourse Title: Introduction to Turbulence and its Modelling\nRecent Instructors: PradeepKumar\nCategory: ME\n"
+            },
+            "ME632": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: ME632\nCourse Title: Mechanics for Energy Systems\nRecent Instructors: RajneeshSharma\nCategory: ME\n"
+            }
+        },
+        "Maths": {
+            "resp0nse": "These courses are related to Mathematics like Abstract Algebra (MA549).\n",
+            "MA521": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: MA521\nCourse Title: Functional Analysis\nRecent Instructors: Kalpesh Haria\nCategory: MA\n"
+            },
+            "MA522": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: MA522\nCourse Title: Partial Differential Equation\nRecent Instructors: Syed Abbas\nCategory: MA\n"
+            },
+            "MA523": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: MA523\nCourse Title: Numerical Analysis\nRecent Instructors: Muslim Malik\nCategory: MA\n"
+            },
+            "MA524": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: MA524\nCourse Title: Probability & Statistics\nRecent Instructors: Rajendra Ray\nCategory: MA\n"
+            },
+            "MA549": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: MA549\nCourse Title: Abstract Algebra\nRecent Instructors: Qaiser Jahan\nCategory: MA\n"
+            },
+            "MA582": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: MA582\nCourse Title: Post Graduate Project II\nRecent Instructors: Rajendra Ray\nCategory: MA\n"
+            },
+            "MA605": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: MA605\nCourse Title: Statistical Data Analysis\nRecent Instructors: Sarita Azad\nCategory: MA\n"
+            },
+            "MA591": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: MA591\nCourse Title: Selected Topics in Measure and Integration\nRecent Instructors: Muslim Malik\nCategory: MA\n"
+            },
+            "MA612": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: MA612\nCourse Title: Operator Theory\nRecent Instructors: KalpeshHaria\nCategory: MA\n"
+            },
+            "MA511": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: MA511\nCourse Title: Real Analysis\nRecent Instructors: SyedAbbas\nCategory: MA\n"
+            },
+            "MA512": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: MA512\nCourse Title: Linear Algebra\nRecent Instructors: MuslimMalik\nCategory: MA\n"
+            },
+            "MA513": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: MA513\nCourse Title: Ordinary Differential Equation\nRecent Instructors: NituKumari\nCategory: MA\n"
+            },
+            "MA514": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: MA514\nCourse Title: Computer Programming\nRecent Instructors: SaritaAzad\nCategory: MA\n"
+            },
+            "MA514P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: MA514P\nCourse Title: Computer Programming Lab\nRecent Instructors: R Ray/Sarita\nCategory: MA\n"
+            },
+            "MA515": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: MA515\nCourse Title: Applied Mathematical Programming\nRecent Instructors: ManojThakur\nCategory: MA\n"
+            },
+            "MA581": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: MA581\nCourse Title: Post Graduate Project-I\nRecent Instructors: NK (Coordinator)\nCategory: MA\n"
+            },
+            "MA609": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: MA609\nCourse Title: Numerics of Partial Differential Equations\nRecent Instructors: R Ray\nCategory: MA\n"
+            }
+        },
+        "Physics": {
+            "resp0nse": "These courses are related to Physics like Electromagnetic Theory (PH521).\n",
+            "PH502": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: PH502\nCourse Title: Photonics\nRecent Instructors: Pradyumna Pathak\nCategory: PH\n"
+            },
+            "PH503": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: PH503\nCourse Title: Laser and Applications\nRecent Instructors: Suman Kalyan Pal\nCategory: PH\n"
+            },
+            "PH521": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: PH521\nCourse Title: Electromagnetic Theory\nRecent Instructors: Prasanth Jose\nCategory: PH\n"
+            },
+            "PH522": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: PH522\nCourse Title: Statistical Mechanics\nRecent Instructors: Sudhir Pandey\nCategory: PH\n"
+            },
+            "PH523": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: PH523\nCourse Title: Condensed Matter Physics\nRecent Instructors: Chandra Shekhar Yadav\nCategory: PH\n"
+            },
+            "PH524": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: PH524\nCourse Title: Atomic and Molecular Physics\nRecent Instructors: Pradeep Kumar\nCategory: PH\n"
+            },
+            "PH525P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: PH525P\nCourse Title: Electronics Laboratory Practicum\nRecent Instructors: Bindu\nCategory: PH\n"
+            },
+            "PH526": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: PH526\nCourse Title: Research Project III\nRecent Instructors: Ajay Soni\nCategory: PH\n"
+            },
+            "PH527": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: PH527\nCourse Title: Research Project IV\nRecent Instructors: Ajay Soni\nCategory: PH\n"
+            },
+            "PH605": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: PH605\nCourse Title: Superconductivity\nRecent Instructors: Girish Sharma\nCategory: PH\n"
+            },
+            "PH612": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: PH612\nCourse Title: Nuclear and Particle Physics\nRecent Instructors: Kaustav Mukherjee\nCategory: PH\n"
+            },
+            "PH621": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: PH621\nCourse Title: Computational Methods for Physicists\nRecent Instructors: Hari Varma\nCategory: PH\n"
+            },
+            "PH519P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: PH519P\nCourse Title: Post Graduate Project II\nRecent Instructors: Pradeep Kumar\nCategory: PH\n"
+            },
+            "PH591": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: PH591\nCourse Title: Selected Topics in Introduction to Quantum Superposition, Quantum Entanglement and Quantum Computing\nRecent Instructors: Hari Varma,Prof. PCD(IIT Tirupati)\nCategory: PH\n"
+            },
+            "PH511": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: PH511\nCourse Title: Mathematical Physics\nRecent Instructors: samar\nCategory: PH\n"
+            },
+            "PH512": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: PH512\nCourse Title: Classical Mechanics\nRecent Instructors: SudhirPandey\nCategory: PH\n"
+            },
+            "PH513": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: PH513\nCourse Title: Quantum Mechanics\nRecent Instructors: SumanKalyan\nCategory: PH\n"
+            },
+            "PH514": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: PH514\nCourse Title: Electronics\nRecent Instructors: BinduRadhamany\nCategory: PH\n"
+            },
+            "PH515P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: PH515P\nCourse Title: Physics Laboratory\nRecent Instructors: PradeepKumar\nCategory: PH\n"
+            },
+            "PH516": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: PH516\nCourse Title: Research Project I\nRecent Instructors: AjaySoni\nCategory: PH\n"
+            },
+            "PH517": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: PH517\nCourse Title: Research Project II\nRecent Instructors: AjaySoni\nCategory: PH\n"
+            },
+            "PH518P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: PH518P\nCourse Title: Post Graduate Project-I\nRecent Instructors: PradeepKumar\nCategory: PH\n"
+            },
+            "PH611P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: PH611P\nCourse Title: Experimental Research Techniques\nRecent Instructors: ChandraShekhar\nCategory: PH\n"
+            },
+            "PH603": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: PH603\nCourse Title: Advanced Condensed Matter Physics\nRecent Instructors: ChandraShekhar\nCategory: PH\n"
+            },
+            "PH701": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: PH701\nCourse Title: Introduction to Molecular Simulation\nRecent Instructors: PrasanthJose\nCategory: PH\n"
+            },
+            "PH508": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: PH508\nCourse Title: Magnestism and Magnetic Materials\nRecent Instructors: KaustavMukherjee\nCategory: PH\n"
+            },
+            "PH613": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: PH613\nCourse Title: Special Topics in Quantum Mechanics\nRecent Instructors: HariVarma\nCategory: PH\n"
+            },
+            "PH614": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: PH614\nCourse Title: Seminar and Report\nRecent Instructors: PradeepKumar\nCategory: PH\n"
+            },
+            "PH601": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: PH601\nCourse Title: Mesoscopic Physics and Quantum Transport\nRecent Instructors: ajay\nCategory: PH\n"
+            }
+        },
+        "Electrical": {
+            "resp0nse": "These courses are for the Electrical branch like Electromechanics (EE201).\n",
+            "EE201": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE201\nCourse Title: Electromechanics\nRecent Instructors: Narsa Reddy Tummuru\nCategory: EE\n"
+            },
+            "EE201P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE201P\nCourse Title: Electromechanics Lab\nRecent Instructors: Narsa Reddy Tummuru\nCategory: EE\n"
+            },
+            "EE2XX": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE2XX\nCourse Title: Analog Circuit Design\nRecent Instructors: Hitesh Shrimali\nCategory: EE\n"
+            },
+            "EE301": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE301\nCourse Title: Control Systems\nRecent Instructors: Tushar Jain\nCategory: EE\n"
+            },
+            "EE301P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE301P\nCourse Title: Control Systems Laboratory\nRecent Instructors: Tushar Jain\nCategory: EE\n"
+            },
+            "EE303": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE303\nCourse Title: Power Systems\nRecent Instructors: Pratim Kundu\nCategory: EE\n"
+            },
+            "EE304": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE304\nCourse Title: Communication Theory\nRecent Instructors: Adaresh Patel\nCategory: EE\n"
+            },
+            "EE304P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE304P\nCourse Title: Communication Theory Lab\nRecent Instructors: Adaresh Patel\nCategory: EE\n"
+            },
+            "EE309": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE309\nCourse Title: Power Electronics\nRecent Instructors: Moumita Das\nCategory: EE\n"
+            },
+            "EE309P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE309P\nCourse Title: Power Electronics Lab\nRecent Instructors: Moumita Das\nCategory: EE\n"
+            },
+            "EE511": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE511\nCourse Title: Computer Vision\nRecent Instructors: Arnav Bhavsar\nCategory: EE\n"
+            },
+            "EE513": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE513\nCourse Title: Special Electrical Machines\nRecent Instructors: BharatSingh\nCategory: EE\n"
+            },
+            "EE517": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE517\nCourse Title: Wireless Communication and Networking\nRecent Instructors: Samar Agnihotri\nCategory: EE\n"
+            },
+            "EE523": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE523\nCourse Title: Digital VLSI Architecture Design\nRecent Instructors: Rahul Shreshta\nCategory: EE\n"
+            },
+            "EE529": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE529\nCourse Title: Embedded Systems\nRecent Instructors: Subhajit Roy Chowdhury\nCategory: EE\n"
+            },
+            "EE619": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE619\nCourse Title: Mixed Signal VLSI Design\nRecent Instructors: Srinivasu Bodapati\nCategory: EE\n"
+            },
+            "EE627P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE627P\nCourse Title: Post Graduate Project II\nRecent Instructors: \nCategory: EE\n"
+            },
+            "EE625P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE625P\nCourse Title: Post Graduate Project-I\nRecent Instructors: NarsaReddy\nCategory: EE\n"
+            },
+            "EE526": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE526\nCourse Title: Power Semiconductor Devices\nRecent Instructors: Ankush Bag\nCategory: EE\n"
+            },
+            "EE530": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE530\nCourse Title: Applied Optimization\nRecent Instructors: Renu M Rameshan\nCategory: EE\n"
+            },
+            "EE531": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE531\nCourse Title: Estimation and Detection theory\nRecent Instructors: Samar Agnihotri\nCategory: EE\n"
+            },
+            "EE593": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE593\nCourse Title: Selected Topics in Low Power VLSI Design\nRecent Instructors: S.Sen (LC:SRC)\nCategory: EE\n"
+            },
+            "EE5XX": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE5XX\nCourse Title: IoT Systems\nRecent Instructors: Siddhartha Sharma\nCategory: EE\n"
+            },
+            "EE604P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE604P\nCourse Title: Practicum on Advanced Electrical Drives\nRecent Instructors: Himanshu Mishra\nCategory: EE\n"
+            },
+            "EE606": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE606\nCourse Title: Introduction to High Voltage Engineering and Dielectric Breakdown\nRecent Instructors: Ravindra Arora(LC:BSR)\nCategory: EE\n"
+            },
+            "EE611": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE611\nCourse Title: VLSI Technology\nRecent Instructors: Satinder Kumar Sharma\nCategory: EE\n"
+            },
+            "EE611P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE611P\nCourse Title: VLSI Fabrication Practicum\nRecent Instructors: Satinder Kumar Sharma\nCategory: EE\n"
+            },
+            "EE623P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE623P\nCourse Title: Practicum on Digital Control of Electric Drives\nRecent Instructors: Amit Kumar Singha\nCategory: EE\n"
+            },
+            "EE592": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE592\nCourse Title: Selected Topics in Resonant Soft-switched DC-DC Converters\nRecent Instructors: Ramesh Oruganti\nCategory: EE\n"
+            },
+            "EE203": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE203\nCourse Title: Network Theory\nRecent Instructors: NST\nCategory: EE\n"
+            },
+            "EE210": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE210\nCourse Title: Digital Systems Design\nRecent Instructors: RahulShreshta\nCategory: EE\n"
+            },
+            "EE210P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE210P\nCourse Title: Digital Systems Design Practicum\nRecent Instructors: RahulShreshta\nCategory: EE\n"
+            },
+            "EE311": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE311\nCourse Title: Device Electronics for Integrated Circuits\nRecent Instructors: AnkushBag\nCategory: EE\n"
+            },
+            "EE312P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE312P\nCourse Title: Microelectronics Circuits Design Practicum\nRecent Instructors: KunalGhosh\nCategory: EE\n"
+            },
+            "EE305": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE305\nCourse Title: Digital Signal Processing\nRecent Instructors: RenuM\nCategory: EE\n"
+            },
+            "EE512": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE512\nCourse Title: CMOS analog IC design\nRecent Instructors: HS\nCategory: EE\n"
+            },
+            "EE514": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE514\nCourse Title: Robust Control Systems\nRecent Instructors: TusharJain\nCategory: EE\n"
+            },
+            "EE615": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE615\nCourse Title: Nano-electronics and nano-microfabrication\nRecent Instructors: SB\nCategory: EE\n"
+            },
+            "EE516": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE516\nCourse Title: Biomedical Systems\nRecent Instructors: SubhajitRoy\nCategory: EE\n"
+            },
+            "EE621": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE621\nCourse Title: Radiating Systems\nRecent Instructors: GopiSrikant\nCategory: EE\n"
+            },
+            "EE534": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE534\nCourse Title: Probability and Random Processes\nRecent Instructors: \nCategory: EE\n"
+            },
+            "EE522": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE522\nCourse Title: Matrix Theory\nRecent Instructors: sharma\nCategory: EE\n"
+            },
+            "EE524": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE524\nCourse Title: Digital MOS LSI Circuits\nRecent Instructors: rahul\nCategory: EE\n"
+            },
+            "EE509": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE509\nCourse Title: Linear Dynamical Systems\nRecent Instructors: Amit\nCategory: EE\n"
+            },
+            "EE519P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE519P\nCourse Title: CMOS Digital IC design practicum\nRecent Instructors: rahulGopiSrikant\nCategory: EE\n"
+            },
+            "EE520": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE520\nCourse Title: Microelectronics devices and modeling\nRecent Instructors: SrikantSrinivasan\nCategory: EE\n"
+            },
+            "EE608": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE608\nCourse Title: Digital Image Processing\nRecent Instructors: AnilKumar\nCategory: EE\n"
+            },
+            "EE503": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE503\nCourse Title: Advanced Communication Theory\nRecent Instructors: -Adaresh\nCategory: EE\n"
+            },
+            "EE504": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE504\nCourse Title: Switch Mode Power Conversion\nRecent Instructors: RO\nCategory: EE\n"
+            },
+            "EE508": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE508\nCourse Title: Fundamentals of Electric Drives\nRecent Instructors: HM\nCategory: EE\n"
+            },
+            "EE508P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE508P\nCourse Title: Practicum on Electrical Drives\nRecent Instructors: HM\nCategory: EE\n"
+            },
+            "EE527": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE527\nCourse Title: Analysis and Design of Power Electronic Converters\nRecent Instructors: NarsaReddy\nCategory: EE\n"
+            },
+            "EE527P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE527P\nCourse Title: Practicum on Analysis and Design of Power Electronic Converters\nRecent Instructors: NarsaReddy\nCategory: EE\n"
+            },
+            "EE528": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE528\nCourse Title: Modeling and Analysis of Electrical Machines\nRecent Instructors: BharatSingh\nCategory: EE\n"
+            },
+            "EE622": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE622\nCourse Title: Microwave Integrated Circuits\nRecent Instructors: GopiSrikant\nCategory: EE\n"
+            },
+            "EE626P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE626P\nCourse Title: Post Graduate Project-I\nRecent Instructors: samar\nCategory: EE\n"
+            },
+            "EE591": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: EE591\nCourse Title: Selected Topics in Electric Machine Design\nRecent Instructors: Er. Sabyasachi Roy LC:BSR\nCategory: EE\n"
+            }
+        },
+        "Institute": {
+            "resp0nse": "These are institute core courses like Engineering Thermodynamics (IC142).\n",
+            "IC111": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: IC111\nCourse Title: Linear Algebra\nRecent Instructors: Nitu Kumari\nCategory: IC\n"
+            },
+            "IC141": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: IC141\nCourse Title: Product Realization Technology\nRecent Instructors: Sunny Zafar\nCategory: IC\n"
+            },
+            "IC141P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: IC141P\nCourse Title: Product Realization Technology lab\nRecent Instructors: Satvasheel Powar,Sunny Zafar,Mohammad Talha,Atul Dhar,SP,VB,SSR,RVSwati,Bharat Singh Rajpurohit,Himanshu Pathak\nCategory: IC\n"
+            },
+            "IC142": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: IC142\nCourse Title: Engineering Thermodynamics\nRecent Instructors: Parmod Kumar\nCategory: IC\n"
+            },
+            "IC161": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: IC161\nCourse Title: Applied Electronics\nRecent Instructors: Srikant Srinivasan\nCategory: IC\n"
+            },
+            "IC161P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: IC161P\nCourse Title: Applied Electronics Lab\nRecent Instructors: Ankush Bag,Srikant Srinivasan,Amit Kumar Singha,KG,SrinivasuSubhajit Roy Chowdhury\nCategory: IC\n"
+            },
+            "IC136": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: IC136\nCourse Title: Understanding Biotechnology and Its Applications\nRecent Instructors: AmitJaiswal\nCategory: IC\n"
+            },
+            "IC1XX": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: IC1XX\nCourse Title: Environmental Sciences\nRecent Instructors: Ajit\nCategory: IC\n"
+            },
+            "IC130": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: IC130\nCourse Title: Applied Chemistry for Engineers\nRecent Instructors: PremFelix\nCategory: IC\n"
+            },
+            "IC130P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: IC130P\nCourse Title: Chemistry Practicum\nRecent Instructors: JaspreetKaur\nCategory: IC\n"
+            },
+            "IC201P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: IC201P\nCourse Title: Design Practicum\nRecent Instructors: Subhamoy Sen,Arnav Bhavsar,Rajneesh Sharma,SCJ,Parmod\nCategory: IC\n"
+            },
+            "IC252": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: IC252\nCourse Title: Data Science II\nRecent Instructors: Lectures: ST Lab: STDileep A. D,Padmanabhan Rajan,Arti Kashyap,Varun Dutt,Varun Jaypal,Sarita Azad,Gaurav Bhutani\nCategory: IC\n"
+            },
+            "IC221": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: IC221\nCourse Title: Foundations of Electrodynamics\nRecent Instructors: Gopi Srikant reddy\nCategory: IC\n"
+            },
+            "IC222P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: IC222P\nCourse Title: Physics Practicum\nRecent Instructors: Ajay Soni\nCategory: IC\n"
+            },
+            "IC241": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: IC241\nCourse Title: Materials Science for Engineers\nRecent Instructors: SumitSinha\nCategory: IC\n"
+            },
+            "IC242": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: IC242\nCourse Title: Continuum Mechanics\nRecent Instructors: Gaurav Bhutani\nCategory: IC\n"
+            },
+            "IC260": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: IC260\nCourse Title: Signals and Systems\nRecent Instructors: SiddharthaSharma\nCategory: IC\n"
+            },
+            "IC101P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: IC101P\nCourse Title: Reverse Engineering\nRecent Instructors: SrikantSrinivasan,GSR,SCJ,AJPSudhirPandey,Swati\nCategory: IC\n"
+            },
+            "IC110": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: IC110\nCourse Title: Engineering Mathematics\nRecent Instructors: QaiserJahan\nCategory: IC\n"
+            },
+            "IC140": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: IC140\nCourse Title: Graphics for Design\nRecent Instructors: VSC Lab - RVSumitSinha,RajeshGhosh,HimanshuPathak,ParmodKumar,SunnyZafar\nCategory: IC\n"
+            },
+            "IC152": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: IC152\nCourse Title: Computing and Data Science\nRecent Instructors: ManojThakur,ABKaustavSarkar,SaritaAzad,ArtiKashyap,RameshwarManasThakur\nCategory: IC\n"
+            },
+            "IC160": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: IC160\nCourse Title: Electrical System Around Us\nRecent Instructors: Ravinder Arora LC:BSR\nCategory: IC\n"
+            },
+            "IC160P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: IC160P\nCourse Title: Electrical System Around Us Lab\nRecent Instructors: SatinderKumar,TusharJain,AmitMD\nCategory: IC\n"
+            },
+            "IC121": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: IC121\nCourse Title: Mechanics of Particles and Waves\nRecent Instructors: PradyumnaPathak\nCategory: IC\n"
+            },
+            "IC272": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: IC272\nCourse Title: Data Science III\nRecent Instructors: DileepA.,AKS,VD,RP\nCategory: IC\n"
+            },
+            "IC240": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: IC240\nCourse Title: Mechanics of Rigid Bodies\nRecent Instructors: RajeevKumar\nCategory: IC\n"
+            }
+        },
+        "Chemistry": {
+            "resp0nse": "These courses are related to Chemistry like Group Theory & Spectroscopy (CY511).\n",
+            "CY501P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CY501P\nCourse Title: Organic Chemistry Laboratory\nRecent Instructors: Subrata Ghosh\nCategory: CY\n"
+            },
+            "CY502": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CY502\nCourse Title: Photochemistry & Pericyclic Reactions\nRecent Instructors: Amit Pawar\nCategory: CY\n"
+            },
+            "CY504": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CY504\nCourse Title: Heterocyclic Chemistry\nRecent Instructors: Subrata Ghosh\nCategory: CY\n"
+            },
+            "CY507": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CY507\nCourse Title: Chemistry of Main Group Elements\nRecent Instructors: Venkata Krishnan\nCategory: CY\n"
+            },
+            "CY511": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CY511\nCourse Title: Group Theory & Spectroscopy\nRecent Instructors: Chayan K Nandi\nCategory: CY\n"
+            },
+            "CY513": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CY513\nCourse Title: Reaction Dynamics, Kinetics & Catalysis\nRecent Instructors: Bhaskar Mondal\nCategory: CY\n"
+            },
+            "CY552": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CY552\nCourse Title: Hydrogen Generation and Storage\nRecent Instructors: Aditi Halder\nCategory: CY\n"
+            },
+            "CY554": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CY554\nCourse Title: Science and Technology of Nanomaterials\nRecent Instructors: Garima Agarwal\nCategory: CY\n"
+            },
+            "CY644": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CY644\nCourse Title: Bioinorganic Chemistry\nRecent Instructors: Pradeep C Parameswaran\nCategory: CY\n"
+            },
+            "CY591": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CY591\nCourse Title: Selected Topics in Designing Next Generation Materials for Direct Electrochemical Charge Transfer: Engendering Paradigm Shift away from Combustion\nRecent Instructors: Sanjeev MukherjeeAditi Halder\nCategory: CY\n"
+            },
+            "CY501": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CY501\nCourse Title: Organic Reaction and Mechanism\nRecent Instructors: SubrataGhosh\nCategory: CY\n"
+            },
+            "CY506": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CY506\nCourse Title: Chemistry of Transition Elements\nRecent Instructors: VKN\nCategory: CY\n"
+            },
+            "CY512": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CY512\nCourse Title: Advanced Quantum Chemistry\nRecent Instructors: ChayanK\nCategory: CY\n"
+            },
+            "CY514": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CY514\nCourse Title: Chemical Thermodynamics & Electrochemistry\nRecent Instructors: AditiHalder\nCategory: CY\n"
+            },
+            "CY521": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CY521\nCourse Title: Mathematics for Chemists\nRecent Instructors: AC\nCategory: CY\n"
+            },
+            "CY506P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CY506P\nCourse Title: Inorganic Chemistry Lab\nRecent Instructors: PradeepC\nCategory: CY\n"
+            },
+            "CY511P": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CY511P\nCourse Title: Physical Chemistry Laboratory\nRecent Instructors: VKN\nCategory: CY\n"
+            },
+            "CY522": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CY522\nCourse Title: Computational Chemistry\nRecent Instructors: AC\nCategory: CY\n"
+            },
+            "CY508": {
+                "resp0nse": "Here is what we have for you...\nCourse Name: CY508\nCourse Title: Organometallic Chemistry\nRecent Instructors: PradeepC\nCategory: CY\n"
+            }
+        }
+    },
+    "faculty": 
+    {
+        "resp0nse": "There are 4 Schools in IIT Mandi: SCEE, SBS, SHSS, SE each of which is concentrated on different areas of study.\n",
+        "SCEE": {
+            "Ankush": {
+                "resp0nse": "Result after searching the database...\nName: Ankush Bag\nResearch Area: Semiconductor Devices, Epitaxy and Compound Semiconductors\nPhD from IIT Kharagpur (2016)\n\nHomepage: http://faculty.iitmandi.ac.in/~ankushbag/\nEmail: ankushbag.iitmandi.ac.in\nPhone: 267276\nSchool: scee\n"
+            },
+            "Adarsh": {
+                "resp0nse": "Result after searching the database...\nName: Adarsh Patel\nResearch Area: Statistical Signal Processing, Wireless Communications\nPhD from IIT Kanpur \n\nHomepage: http://faculty.iitmandi.ac.in/~adarsh/\nEmail: adarsh.iitmandi.ac.in\nPhone: 267948\nSchool: scee\n"
+            },
+            "Aditya": {
+                "resp0nse": "Result after searching the database...\nName: Aditya Nigam\nResearch Area: Biometrics, Computer Vision, Image Processing\nPhD from Indian Institute of Technology Kanpur\n\nHomepage: http://faculty.iitmandi.ac.in/~aditya/\nEmail: aditya.iitmandi.ac.in\nPhone: 267152\nSchool: scee\n"
+            },
+            "Amit": {
+                "resp0nse": "Result after searching the database...\nName: Amit Kumar Singha\nResearch Area: Control System, DC-DC Converter\nPhD from IIT Kharagpur\n\nHomepage: http://faculty.iitmandi.ac.in/~amit/\nEmail: amit.iitmandi.ac.in\nPhone: \nSchool: scee\n"
+            },
+            "Anil": {
+                "resp0nse": "Result after searching the database...\nName: Anil Kumar Sao\nResearch Area: Image processing\nPhD from Indian Institute of Technology Madras \n\nHomepage: http://faculty.iitmandi.ac.in/~anil/\nEmail: anil.iitmandi.ac.in\nPhone: 267066\nSchool: scee\n"
+            },
+            "Arnav": {
+                "resp0nse": "Result after searching the database...\nName: Arnav Bhavsar Vinayak\nResearch Area: Image analysis, Computer vision\nPhD from  IIT Madras (2011)\n\nHomepage: http://faculty.iitmandi.ac.in/~arnav/\nEmail: arnav.iitmandi.ac.in\nPhone: 267115\nSchool: scee\n"
+            },
+            "Arti": {
+                "resp0nse": "Result after searching the database...\nName: Arti Kashyap\nResearch Area: Computational magnetics and material informatics\nPhD from University of Roorkee\n\nHomepage: http://faculty.iitmandi.ac.in/~arti/\nEmail: arti.iitmandi.ac.in\nPhone: 267042\nSchool: scee\n"
+            },
+            "Astrid": {
+                "resp0nse": "Result after searching the database...\nName: Astrid Kiehn\nResearch Area: Distributed Algorithms, Verification, Theoretical Computer Science\nPhD from  TU-Munich University, Germany (1989)\n\nHomepage: http://faculty.iitmandi.ac.in/~astrid/\nEmail: astrid.iitmandi.ac.in\nPhone: 267053\nSchool: scee\n"
+            },
+            "Bharat": {
+                "resp0nse": "Result after searching the database...\nName: Bharat Singh Rajpurohit\nResearch Area: Power Electronics Application to Power Systems \nPhD from Indian Institute of Technology Kanpur (2009)\n\nHomepage: http://faculty.iitmandi.ac.in/~bsr/\nEmail: bsr.iitmandi.ac.in\nPhone: 267046\nSchool: scee\n"
+            },
+            "Dileep": {
+                "resp0nse": "Result after searching the database...\nName: Dileep A. D\nResearch Area: Pattern Recognition, Kernel Methods for Pattern Analysis, Machine Learning, Speech Technology, Computer Vision\nPhD from Indian Institute of Technology Madras (2013)\n\nHomepage: http://faculty.iitmandi.ac.in/~addileep/\nEmail: addileep.iitmandi.ac.in\nPhone: 267047\nSchool: scee\n"
+            },
+            "Erwin": {
+                "resp0nse": "Result after searching the database...\nName: Erwin Fuhrer\nResearch Area: MRI, RF hardware, Biomedical Engineering\nPhD from  Karlsruhe Institute of Technology (KIT) (2019)\n\nHomepage: Not Available\nEmail: erwin.iitmandi.ac.in\nPhone: \nSchool: scee\n"
+            },
+            "Gopi": {
+                "resp0nse": "Result after searching the database...\nName: Gopi Shrikanth Reddy\nResearch Area: Communications: Antennas and Wave Propagation, RF and Microwave Passive component Design\nPhD from IIT Bombay (2015)\n\nHomepage: http://faculty.iitmandi.ac.in/~gopishrikanth/\nEmail: gopishrikanth.iitmandi.ac.in\nPhone: 267221\nSchool: scee\n"
+            },
+            "Himanshu": {
+                "resp0nse": "Result after searching the database...\nName: Himanshu Misra\nResearch Area: Electrical Drives, DFIG systems, Electric Vehicle, Renewable Energy, Power Converters \nPhD from IIT Delhi\n\nHomepage: https://sites.google.com/view/himanshumisra/home\nEmail: himanshumisra.iitmandi.ac.in\nPhone: 267115\nSchool: scee\n"
+            },
+            "Hitesh": {
+                "resp0nse": "Result after searching the database...\nName: Hitesh Shrimali\nResearch Area: Analog and Mixed signal VLSI design, analog-to-digital converters and design of radiation hard circuits (space application) \nPhD from  Indian Institute of Technology Delhi\n\nHomepage: http://faculty.iitmandi.ac.in/~hitesh/\nEmail: hitesh.iitmandi.ac.in\nPhone: \nSchool: scee\n"
+            },
+            "Jinesh": {
+                "resp0nse": "Result after searching the database...\nName: Jinesh Machchhar\nResearch Area: Geometric modeling, Simulation, Design\nPhD from  IIT Bombay\n\nHomepage: http://faculty.iitmandi.ac.in/~jinesh/\nEmail: jinesh.iitmandi.ac.in\nPhone: 267804\nSchool: scee\n"
+            },
+            "Kunal": {
+                "resp0nse": "Result after searching the database...\nName: Kunal Ghosh\nResearch Area: Solar Photovoltaics\nPhD from Arizona State University, USA (2011) \n\nHomepage: http://faculty.iitmandi.ac.in/~kunal/\nEmail: kunal.iitmandi.ac.in\nPhone: 267145\nSchool: scee\n"
+            },
+            "Manas": {
+                "resp0nse": "Result after searching the database...\nName: Manas Thakur\nResearch Area: Program analysis, compilers, programming languages\nPhD from IIT Madras\n\nHomepage: https://manas.gitlab.io\nEmail: manas.iitmandi.ac.in\nPhone: 267946\nSchool: scee\n"
+            },
+            "Moumita": {
+                "resp0nse": "Result after searching the database...\nName: Moumita Das\nResearch Area: Power Electronics\nPhD from IIT Bombay\n\nHomepage: http://faculty.iitmandi.ac.in/~moumita/\nEmail: moumita.iitmandi.ac.in\nPhone: 267270\nSchool: scee\n"
+            },
+            "Narsa": {
+                "resp0nse": "Result after searching the database...\nName: Narsa Reddy Tummuru\nResearch Area: Hybrid Energy Storage Applications in Future Microgrids, Efficient Power Electronic Interfaces in Renewable Energy Applications and Smartgrid Communication Networks \nPhD from IIT Madras (2015) \n\nHomepage: http://faculty.iitmandi.ac.in/~tummuru/\nEmail: tummuru.iitmandi.ac.in\nPhone: 267225\nSchool: scee\n"
+            },
+            "Padmanabhan": {
+                "resp0nse": "Result after searching the database...\nName: Padmanabhan Rajan\nResearch Area: Speech processing, speaker recognition \nPhD from Indian Institute of Technology Madras (2012)\n\nHomepage: http://faculty.iitmandi.ac.in/~padman/\nEmail: padman.iitmandi.ac.in\nPhone: 267118\nSchool: scee\n"
+            },
+            "Pratim": {
+                "resp0nse": "Result after searching the database...\nName: Pratim Kundu\nResearch Area: Power Systems\nPhD from IIT Kharagpur\n\nHomepage: http://faculty.iitmandi.ac.in/~pratim/\nEmail: pratim.iitmandi.ac.in\nPhone: \nSchool: scee\n"
+            },
+            "Rahul": {
+                "resp0nse": "Result after searching the database...\nName: Rahul Shrestha\nResearch Area: VLSI Design and Circuits & Systems for Signal Processing and Wireless Communication.\nPhD from IIT Guwahati (2014)\n\nHomepage: http://faculty.iitmandi.ac.in/~rahul_shrestha/\nEmail: rahul_shrestha.iitmandi.ac.in\nPhone: 267271\nSchool: scee\n"
+            },
+            "Rameshwar": {
+                "resp0nse": "Result after searching the database...\nName: Rameshwar Pratap\nResearch Area: Algorithms in Data Science and Machine Learning,\r\nTheoretical Computer Science\nPhD from  Chennai Mathematical Institute (CMI)\n\nHomepage: https://sites.google.com/site/prataprameshwaryadav/home?authuser=0\nEmail: rameshwar.iitmandi.ac.in\nPhone: 267945\nSchool: scee\n"
+            },
+            "Renu": {
+                "resp0nse": "Result after searching the database...\nName: Renu M. Rameshan\nResearch Area: Image Processing\nPhD from Indian Institute of Technology Bombay (2013) \n\nHomepage: http://faculty.iitmandi.ac.in/~renumr/\nEmail: renumr.iitmandi.ac.in\nPhone: 267113 \nSchool: scee\n"
+            },
+            "Samar": {
+                "resp0nse": "Result after searching the database...\nName: Samar\nResearch Area: Information Theory, Wireless Communications\nPhD from  Indian Institute of Science\n\nHomepage: http://faculty.iitmandi.ac.in/~samar/\nEmail: samar.iitmandi.ac.in\nPhone: 267107\nSchool: scee\n"
+            },
+            "Satinder": {
+                "resp0nse": "Result after searching the database...\nName: Satinder Kumar Sharma\nResearch Area: VLSI Technology, CMOS Device Fabrication & Characterization, Advanced Lithography, Nanoelectronics\nPhD from Kurukshetra University (2007)\n\nHomepage: http://faculty.iitmandi.ac.in/~satinder/\nEmail: satinder.iitmandi.ac.in\nPhone: 267841\nSchool: scee\n"
+            },
+            "Satyajit": {
+                "resp0nse": "Result after searching the database...\nName: Satyajit Thakor\nResearch Area: Communication Theory, Information Theory, Network Coding \nPhD from Institute for Telecommunications Research, Uni. of South Australia (2012) \n\nHomepage: https://sites.google.com/site/satyajitthakor/\nEmail: satyajit.iitmandi.ac.in\nPhone: 267150\nSchool: scee\n"
+            },
+            "Shubhajit": {
+                "resp0nse": "Result after searching the database...\nName: Shubhajit Roy Chowdhury\nResearch Area: Biomedical Embedded Systems, Non invasive diagnostic systems, Near Infrared Spectroscopy, VLSI Architectures\nPhD from Jadavpur University (2010)\n\nHomepage: http://faculty.iitmandi.ac.in/~src/\nEmail: src.iitmandi.ac.in\nPhone: 267915\nSchool: scee\n"
+            },
+            "Siddhartha": {
+                "resp0nse": "Result after searching the database...\nName: Siddhartha Sarma\nResearch Area: Resource allocation in Wireless Networks, Wireless Energy Harvesting and Crowd sensing\nPhD from Indian Institute of Science \n\nHomepage: http://faculty.iitmandi.ac.in/~siddhartha/index.html\nEmail: siddhartha.iitmandi.ac.in\nPhone: 267116\nSchool: scee\n"
+            },
+            "Sreelakshmi": {
+                "resp0nse": "Result after searching the database...\nName: Sreelakshmi Manjunath\nResearch Area: Communication Networks, Vehicular Networks, Control Systems, Non-linear Dynamics, Time-delayed Systems, Non-linear Controller Design\nPhD from IIT Madras\n\nHomepage: http://faculty.iitmandi.ac.in/~sreelakshmi/\nEmail: sreelakshmi.iitmandi.ac.in\nPhone: 267224\nSchool: scee\n"
+            },
+            "Srikant": {
+                "resp0nse": "Result after searching the database...\nName: Srikant Srinivasan\nResearch Area: Big-Data acquisition and analysis, Nanoelectronics, Spintronics\nPhD from Purdue University - West Lafayette, USA (2012)\n\nHomepage: http://faculty.iitmandi.ac.in/~srikant_srinivasan/\nEmail: srikant.iitmandi.ac.in\nPhone: 267057\nSchool: scee\n"
+            },
+            "Srikanth": {
+                "resp0nse": "Result after searching the database...\nName: Srikanth Sugavanam\nResearch Area: Photonics\nPhD from Aston Institute of Photonic Technologies, Aston University \n\nHomepage: https://www.srikanthsugavanam.com/\nEmail: ssrikanth.iitmandi.ac.in\nPhone: \nSchool: scee\n"
+            },
+            "Srinivasu": {
+                "resp0nse": "Result after searching the database...\nName: Srinivasu Bodapati\nResearch Area: VLSI Design, Nanoelctronics, Hardware security, Cryptography and FPGA based system design \nPhD from IIT Madras\n\nHomepage: http://faculty.iitmandi.ac.in/~srinivasu/\nEmail: srinivasu.iitmandi.ac.in\nPhone: \nSchool: scee\n"
+            },
+            "Sriram": {
+                "resp0nse": "Result after searching the database...\nName: Sriram Kailasam\nResearch Area: Distributed Systems (Cloud Computing)\nPhD from Indian Institute of Technology Madras (2014)\n\nHomepage: http://faculty.iitmandi.ac.in/~sriramk/\nEmail: sriramk.iitmandi.ac.in\nPhone: 267120\nSchool: scee\n"
+            },
+            "Tushar": {
+                "resp0nse": "Result after searching the database...\nName: Tushar Jain\nResearch Area: Control theory, fault tolerant control, industrial process control \nPhD from  University of Lorraine, France (2012)\n\nHomepage: http://faculty.iitmandi.ac.in/~tushar/\nEmail: tushar.iitmandi.ac.in\nPhone: 267123\nSchool: scee\n"
+            },
+            "Varun": {
+                "resp0nse": "Result after searching the database...\nName: Varun Dutt\nResearch Area: Artificial Intelligence, Human-Computer Interaction, Cognitive Science, Judgment and Decision Making\nPhD from Carnegie Mellon University, USA (2011) \n\nHomepage: http://faculty.iitmandi.ac.in/~varun/\nEmail: varun.iitmandi.ac.in\nPhone: 267150\nSchool: scee\n"
+            },
+            "Varunkumar": {
+                "resp0nse": "Result after searching the database...\nName: Varunkumar Jayapaul\nResearch Area: Algorithms and Data Structures\nPhD from \n\nHomepage: http://faculty.iitmandi.ac.in/~varunkumar/\nEmail: varunkumar.iitmandi.ac.in\nPhone: \nSchool: scee\n"
+            },
+            "resp0nse": "The SCEE is the School of Computing and Electrical Engineering.\nChairperson: Dr. Samar\nEmail: chairscee@iitmandi.ac.in\n"
+        },
+        "SBS": {
+            "Suman": {
+                "resp0nse": "Result after searching the database...\nName: Suman Kalyan Pal\nResearch Area: Fast and Ultrafast Laser Spectroscopy\nPhD from Indian Association for the Cultivation of Science, Jadavpur (2006) \n\nHomepage: http://faculty.iitmandi.ac.in/~suman/\nEmail: suman.iitmandi.ac.in\nPhone: 267040\nSchool: sbs\n"
+            },
+            "Aditi": {
+                "resp0nse": "Result after searching the database...\nName: Aditi Halder\nResearch Area: Design and development of new functional nanomaterials for the application of renewable energy, nano-electronics and sensor\nPhD from Indian Institute of Science (2009) \n\nHomepage: https://sites.google.com/site/renewableenergyforgreenerearth/home\nEmail: aditi.iitmandi.ac.in\nPhone: 267139\nSchool: sbs\n"
+            },
+            "Ajay": {
+                "resp0nse": "Result after searching the database...\nName: Ajay Soni\nResearch Area: Nanomaterials and Experimental Condense Matter Physics\nPhD from UGC-DAE Consortium for Scientific Research, Indore (2009)\n\nHomepage: http://faculty.iitmandi.ac.in/~ajay/\nEmail: ajay.iitmandi.ac.in\nPhone: 267154\nSchool: sbs\n"
+            },
+            "Amit": {
+                "resp0nse": "Result after searching the database...\nName: Amit Prasad\nResearch Area: Immunology/Microbiology\nPhD from Sanjay Gandhi Postgraduate Institute of Medical Sciences, Lucknow (2008)\n\nHomepage: http://faculty.iitmandi.ac.in/~amitprasad/\nEmail: amitprasad.iitmandi.ac.in\nPhone: 267263\nSchool: sbs\n"
+            },
+            "Aniruddha": {
+                "resp0nse": "Result after searching the database...\nName: Aniruddha Chakraborty\nResearch Area: Theoretical Chemistry\nPhD from  Indian Institute of Science (2005)\n\nHomepage: http://www.aniruddhachakraborty.org/\nEmail: achakraborty.iitmandi.ac.in\nPhone: 267145\nSchool: sbs\n"
+            },
+            "Arti": {
+                "resp0nse": "Result after searching the database...\nName: Arti Kashyap\nResearch Area: Computational magnetics and material informatics\nPhD from University of Roorkee\n\nHomepage: http://faculty.iitmandi.ac.in/~arti/\nEmail: arti.iitmandi.ac.in\nPhone: 267042\nSchool: sbs\n"
+            },
+            "Baskar": {
+                "resp0nse": "Result after searching the database...\nName: Baskar Bakthavachalu\nResearch Area: Genetics and Molecular Neuroscience\nPhD from National Centre for Cell Science \n\nHomepage: Not Available\nEmail: baskar.iitmandi.ac.in\nPhone: \nSchool: sbs\n"
+            },
+            "Bhaskar": {
+                "resp0nse": "Result after searching the database...\nName: Bhaskar Mondal\nResearch Area: Computational Chemistry and Catalysis\nPhD from Indian Association for the Cultivation of Science, Kolkata\n\nHomepage: https://www.compcatlab.com\nEmail: bhaskarmondal.iitmandi.ac.in\nPhone: 267828\nSchool: sbs\n"
+            },
+            "Bindu": {
+                "resp0nse": "Result after searching the database...\nName: Bindu Radhamany\nResearch Area: X-ray spectroscopy\nPhD from  UGC-DAE, consortium for scientific research, Indore (2005) \n\nHomepage: http://faculty.iitmandi.ac.in/~bindu/\nEmail: bindu.iitmandi.ac.in\nPhone: 267060\nSchool: sbs\n"
+            },
+            "CS": {
+                "resp0nse": "Result after searching the database...\nName: C. S. Yadav\nResearch Area: Low Temperature Physics\nPhD from Jawaharlal Nehru University (2008) \n\nHomepage: http://iitmandi.ac.in/CMP/files/CSY%20webpage/CSY_homepage.php\nEmail: shekhar.iitmandi.ac.in\nPhone: 267135\nSchool: sbs\n"
+            },
+            "Chayan": {
+                "resp0nse": "Result after searching the database...\nName: Chayan K. Nandi\nResearch Area: Physical Chemistry\nPhD from Indian Institute of Technology Kanpur (2006)\n\nHomepage: http://faculty.iitmandi.ac.in/~chayan/\nEmail: chayan.iitmandi.ac.in\nPhone: 267047\nSchool: sbs\n"
+            },
+            "Garima": {
+                "resp0nse": "Result after searching the database...\nName: Garima Agrawal\nResearch Area: Polymer Science and Technology, Materials Chemistry, Nanomaterials, Smart Materials, Biodegradable Polymers, Biomaterials\nPhD from  RWTH Aachen University, Germany\n\nHomepage: https://sites.google.com/iitmandi.ac.in/agrawal-research-group/home\nEmail: garima.iitmandi.ac.in\nPhone: 267827\nSchool: sbs\n"
+            },
+            "Girish": {
+                "resp0nse": "Result after searching the database...\nName: Girish Sharma\nResearch Area: Theoretical condensed matter physics\nPhD from Clemson University (USA)\n\nHomepage: https://sites.google.com/view/girishsharmaiitmandi/ \nEmail: girish.iitmandi.ac.in\nPhone: \nSchool: sbs\n"
+            },
+            "Hari": {
+                "resp0nse": "Result after searching the database...\nName: Hari Varma\nResearch Area: Atomic and Molecular physics\nPhD from  Indian Institute of Technology Madras (2008) \n\nHomepage: http://faculty.iitmandi.ac.in/~hari/\nEmail: hari.iitmandi.ac.in\nPhone: 267064\nSchool: sbs\n"
+            },
+            "Kaustav": {
+                "resp0nse": "Result after searching the database...\nName: Kaustav Mukherjee\nResearch Area: Experimental Condensed Matter Physics\nPhD from UGC-DAE Consortium for Scientific Research (2008)\n\nHomepage: http://faculty.iitmandi.ac.in/~kaustav/\nEmail: kaustav.iitmandi.ac.in\nPhone: 267043\nSchool: sbs\n"
+            },
+            "Ken": {
+                "resp0nse": "Result after searching the database...\nName: Ken Gonsalves\nResearch Area: Materials Synthesis \nPhD from  University of Massachusetts at Amherst\n\nHomepage: Not Available\nEmail: kenneth.iitmandi.ac.in\nPhone: \nSchool: sbs\n"
+            },
+            "Manoj": {
+                "resp0nse": "Result after searching the database...\nName: Manoj Thakur\nResearch Area: Optimization, Soft Computing, Machine Learning & its Application to Computational Finance\nPhD from  IIT Roorkee (2007) \n\nHomepage: http://faculty.iitmandi.ac.in/~manoj/\nEmail: manoj.iitmandi.ac.in\nPhone: 267142\nSchool: sbs\n"
+            },
+            "Muslim": {
+                "resp0nse": "Result after searching the database...\nName: Muslim Malik\nResearch Area: Differential Equations\nPhD from Indian Institute of Technology Kanpur (2006) \n\nHomepage: http://faculty.iitmandi.ac.in/~muslim/\nEmail: muslim.iitmandi.ac.in\nPhone: 267119\nSchool: sbs\n"
+            },
+            "Nitu": {
+                "resp0nse": "Result after searching the database...\nName: Nitu Kumari\nResearch Area: Differential Equations, Dynamical Systems, Nonlinear Dynamics\nPhD from Indian School of Mines Dhanbad (2009) \n\nHomepage: http://faculty.iitmandi.ac.in/~nitu/\nEmail: nitu.iitmandi.ac.in\nPhone: 267109\nSchool: sbs\n"
+            },
+            "Pradeep": {
+                "resp0nse": "Result after searching the database...\nName: Pradeep Parameswaran\nResearch Area: Inorganic/Materials/Nano-Chemistry\nPhD from  University of Hyderabad (2006)\n\nHomepage: http://faculty.iitmandi.ac.in/~pradeep/\nEmail: pradeep.iitmandi.ac.in\nPhone: 267045\nSchool: sbs\n"
+            },
+            "Pradyuman": {
+                "resp0nse": "Result after searching the database...\nName: Pradyuman K Pathak\nResearch Area: Quantum Optics,Quantum Information and Nanophotonics\nPhD from Physical Research Laboratory, Ahmedabad \n\nHomepage: http://faculty.iitmandi.ac.in/~ppathak/\nEmail: ppathak.iitmandi.ac.in\nPhone: \nSchool: sbs\n"
+            },
+            "Prasad": {
+                "resp0nse": "Result after searching the database...\nName: Prasad Kasturi\nResearch Area: Proteostasis, Aging, Stress Response and C.elegans\nPhD from University of Fribour\n\nHomepage: https://www.kpbiolab.com/\nEmail: prasadkasturi.iitmandi.ac.in\nPhone: \nSchool: sbs\n"
+            },
+            "Prasanth": {
+                "resp0nse": "Result after searching the database...\nName: Prasanth P. Jose\nResearch Area: Soft condensed matter physics\nPhD from  Indian Institute of Science (2005) \n\nHomepage: http://faculty.iitmandi.ac.in/~prasanth/\nEmail: prasanth.iitmandi.ac.in\nPhone: 267266\nSchool: sbs\n"
+            },
+            "Prem": {
+                "resp0nse": "Result after searching the database...\nName: Prem Felix Siril\nResearch Area: Chemistry of Nanomaterials \nPhD from DDU Gorakhpur University (2003)\n\nHomepage: http://faculty.iitmandi.ac.in/~prem/\nEmail: prem.iitmandi.ac.in\nPhone: 267040\nSchool: sbs\n"
+            },
+            "Prosenjit": {
+                "resp0nse": "Result after searching the database...\nName: Prosenjit Mondal\nResearch Area: Molecular Endocrinology and Metabolism\nPhD from Utkal University Bhubaneswar (2008)\n\nHomepage: http://faculty.iitmandi.ac.in/~prosenjit/\nEmail: prosenjit.iitmandi.ac.in\nPhone: 267135\nSchool: sbs\n"
+            },
+            "Qaiser": {
+                "resp0nse": "Result after searching the database...\nName: Qaiser Jahan\nResearch Area: Harmonic and Wavelet Analysis\nPhD from  ISI Kolkata, Year : 2014\n\nHomepage: Not Available\nEmail: qaiser.iitmandi.ac.in\nPhone: 267050\nSchool: sbs\n"
+            },
+            "Rajanish": {
+                "resp0nse": "Result after searching the database...\nName: Rajanish Giri\nResearch Area: Biophysics and protein folding, Intrinsically Disordered Proteins,T Cell Engineering, Protein Engineering \nPhD from Sapienza University of Rome, Italy (2013)\n\nHomepage: http://faculty.iitmandi.ac.in/~rajanishgiri/\nEmail: rajanishgiri.iitmandi.ac.in\nPhone: 267134\nSchool: sbs\n"
+            },
+            "Rajendra": {
+                "resp0nse": "Result after searching the database...\nName: Rajendra Kr. Ray\nResearch Area: Computational Fluid Dynamics, Numerical Methods for PDEs\nPhD from Indian Institute of Technology Guwahati (2009) \n\nHomepage: http://faculty.iitmandi.ac.in/~rajendra/\nEmail: rajendra.iitmandi.ac.in\nPhone: 267041\nSchool: sbs\n"
+            },
+            "Sarita": {
+                "resp0nse": "Result after searching the database...\nName: Sarita Azad\nResearch Area: Statistical Time Series Analysis \nPhD from Delhi University and Indian Institute of Science (2008)\n\nHomepage: http://faculty.iitmandi.ac.in/~sarita/\nEmail: sarita.iitmandi.ac.in\nPhone: \nSchool: sbs\n"
+            },
+            "Shyam": {
+                "resp0nse": "Result after searching the database...\nName: Shyam Kumar Masakapalli\nResearch Area: Metabolic Systems Biology (Fluxomics and metabolomics), Plant and microbial metabolism, NMR and GC-MS. \nPhD from University of Oxford, UK (2012)\n\nHomepage: http://faculty.iitmandi.ac.in/~shyam/\nEmail: shyam.iitmandi.ac.in\nPhone: 267151\nSchool: sbs\n"
+            },
+            "Subrata": {
+                "resp0nse": "Result after searching the database...\nName: Subrata Ghosh\nResearch Area: Organic Chemistry\nPhD from  Indian Institute of Technology Guwahati (2006) \n\nHomepage: http://faculty.iitmandi.ac.in/~subrata/\nEmail: subrata.iitmandi.ac.in\nPhone: 267065\nSchool: sbs\n"
+            },
+            "Syed": {
+                "resp0nse": "Result after searching the database...\nName: Syed Abbas\nResearch Area: Differential Equations and Ecological modelling \nPhD from Indian Institute of Technology Kanpur (2009)\n\nHomepage: https://sites.google.com/site/abbaskanpur/Home\nEmail: abbas.iitmandi.ac.in\nPhone: \nSchool: sbs\n"
+            },
+            "Trayambak": {
+                "resp0nse": "Result after searching the database...\nName: Trayambak Basak\nResearch Area: Metabolic diseases, extracellular matrix, Proteomics\nPhD from CSIR-Institute of Genomics and Integrative Biology\n\nHomepage: https://sites.google.com/iitmandi.ac.in/proteomicslabiit-mandi/home?authuser=1\nEmail: trayambak.iitmandi.ac.in\nPhone: \nSchool: sbs\n"
+            },
+            "Tulika": {
+                "resp0nse": "Result after searching the database...\nName: Tulika Srivastava\nResearch Area: Bioinformatics, Systems Biology, Metagenomics, Comparative Genomics, Protein Function and Structural analysis \nPhD from Delhi University (2005)\n\nHomepage: http://faculty.iitmandi.ac.in/~tulika/\nEmail: tulika.iitmandi.ac.in\nPhone: 267060\nSchool: sbs\n"
+            },
+            "Venkata": {
+                "resp0nse": "Result after searching the database...\nName: Venkata Krishnan\nResearch Area: Materials Chemistry, X-ray Science\nPhD from University of Stuttgart, Germany (2006)\n\nHomepage: http://faculty.iitmandi.ac.in/~vkn/\nEmail: vkn.iitmandi.ac.in\nPhone: 267065\nSchool: sbs\n"
+            },
+            "Shweta": {
+                "resp0nse": "Result after searching the database...\nName: Shweta Tripathi\nResearch Area: Virology, Innate Immunity, Cancer Biology\nPhD from Boston University\n\nHomepage: http://faculty.iitmandi.ac.in/~shwetatripathi/\nEmail: shwetatripathi.iitmandi.ac.in\nPhone: \nSchool: sbs\n"
+            },
+            "resp0nse": "The SBS is the School of Basic Sciences.\nChairperson: Dr. Suman Kalyan Pal\nEmail: chairsbs@iitmandi.ac.in\n"
+        },
+        "SE": {
+            "Atul": {
+                "resp0nse": "Result after searching the database...\nName: Atul Dhar\nResearch Area: Alternative Fuels, IC Engines, Emissions Control\nPhD from IIT Kanpur\n\nPhone: 267143\nEMail: add \nHome Page\nHomepage: http://se.iitmandi.ac.in/facprofile.php?user=add\nEmail: add.iitmandi.ac.in\nPhone: 267143\nSchool: se\n"
+            },
+            "Arpan": {
+                "resp0nse": "Result after searching the database...\nName: Arpan Gupta\nResearch Area: Acoustics, Vibration, Bio-mechanics \nPhD from NUS Singapore \n\nPhone: 7135\nEMail: agupta \nHome Page\nHomepage: http://se.iitmandi.ac.in/facprofile.php?user=agupta\nEmail: agupta.iitmandi.ac.in\nPhone: 7135\nSchool: se\n"
+            },
+            "Ajit": {
+                "resp0nse": "Result after searching the database...\nName: Ajit P. Annachhatre\nResearch Area: Environmental Engineering\nPhD from IIT Kanpur\n\nPhone: 267143\nEMail: ajit \nHome Page\nHomepage: http://se.iitmandi.ac.in/facprofile.php?user=ajit\nEmail: ajit.iitmandi.ac.in\nPhone: 267143\nSchool: se\n"
+            },
+            "Prof.": {
+                "resp0nse": "Result after searching the database...\nName: Prof. -Ing. Balthasar Nov\u00e1k\nResearch Area: Civil Engineering\nPhD from Technical University Darmstadt\n\nPhone: 0\nEMail: balthasar.novak \nHome Page\nHomepage: http://se.iitmandi.ac.in/facprofile.php?user=balthasar.novak\nEmail: balthasar.novak.iitmandi.ac.in\nPhone: 0\nSchool: se\n"
+            },
+            "Deepak": {
+                "resp0nse": "Result after searching the database...\nName: Deepak Swami\nResearch Area: Groundwater and Water Resources\nPhD from IIT Roorkee\n\nPhone: 267115\nEMail: deepak \nHome Page\nHomepage: http://se.iitmandi.ac.in/facprofile.php?user=deepak\nEmail: deepak.iitmandi.ac.in\nPhone: 267115\nSchool: se\n"
+            },
+            "Dericks": {
+                "resp0nse": "Result after searching the database...\nName: Dericks P Shukla\nResearch Area: Remote Sensing, GIS, Environmental-Hydro-geochemistry\nPhD from University of Delhi\n\nPhone: 267147\nEMail: dericks \nHome Page\nHomepage: http://se.iitmandi.ac.in/facprofile.php?user=dericks\nEmail: dericks.iitmandi.ac.in\nPhone: 267147\nSchool: se\n"
+            },
+            "Gaurav": {
+                "resp0nse": "Result after searching the database...\nName: Gaurav Bhutani\nResearch Area: Fluid and thermal sciences\nPhD from Imperial College London\n\nPhone: 267108\nEMail: gaurav \nHome Page\nHomepage: http://se.iitmandi.ac.in/facprofile.php?user=gaurav\nEmail: gaurav.iitmandi.ac.in\nPhone: 267108\nSchool: se\n"
+            },
+            "Himanshu": {
+                "resp0nse": "Result after searching the database...\nName: Himanshu Pathak\nResearch Area: Computational Solid Mechanics, Fracture Mechanics, Functionally Graded Materials\nPhD from IIT Patna\n\nPhone: 267224\nEMail: himanshu \nHome Page\nHomepage: http://se.iitmandi.ac.in/facprofile.php?user=himanshu\nEmail: himanshu.iitmandi.ac.in\nPhone: 267224\nSchool: se\n"
+            },
+            "Jaspreert": {
+                "resp0nse": "Result after searching the database...\nName: Jaspreert Kaur Randhawa\nResearch Area: Drug Delivery System\nPhD from Deen Dayal Upadaya University\n\nPhone: 267056\nEMail: jaspreet \nHome Page\nHomepage: http://se.iitmandi.ac.in/facprofile.php?user=jaspreet\nEmail: jaspreet.iitmandi.ac.in\nPhone: 267056\nSchool: se\n"
+            },
+            "Kasiviswanathan": {
+                "resp0nse": "Result after searching the database...\nName: Kasiviswanathan K S\nResearch Area: Water Resources Engineering\nPhD from IIT Madras \n\nPhone: 267079\nEMail: kasiviswanathan \nHome Page\nHomepage: http://se.iitmandi.ac.in/facprofile.php?user=kasiviswanathan\nEmail: kasiviswanathan.iitmandi.ac.in\nPhone: 267079\nSchool: se\n"
+            },
+            "P.": {
+                "resp0nse": "Result after searching the database...\nName: P. Anil Kishan\nResearch Area: Thermal Science\nPhD from IIT Kharagpur\n\nPhone: 267151\nEMail: kishan \nHome Page\nHomepage: http://se.iitmandi.ac.in/facprofile.php?user=kishan\nEmail: kishan.iitmandi.ac.in\nPhone: 267151\nSchool: se\n"
+            },
+            "Maheshreddy": {
+                "resp0nse": "Result after searching the database...\nName: Maheshreddy Gade\nResearch Area: Earthquake Engineering and Engineering Seismology\nPhD from IIT-Madras\n\nPhone: 267223\nEMail: maheshreddy \nHome Page\nHomepage: http://se.iitmandi.ac.in/facprofile.php?user=maheshreddy\nEmail: maheshreddy.iitmandi.ac.in\nPhone: 267223\nSchool: se\n"
+            },
+            "Mousumi": {
+                "resp0nse": "Result after searching the database...\nName: Mousumi Mukherjee\nResearch Area: Geotechnical Engineering \nPhD from IIT Kanpur\n\nPhone: 267111\nEMail: mousumi \nHome Page\nHomepage: http://se.iitmandi.ac.in/facprofile.php?user=mousumi\nEmail: mousumi.iitmandi.ac.in\nPhone: 267111\nSchool: se\n"
+            },
+            "Parmod": {
+                "resp0nse": "Result after searching the database...\nName: Parmod Kumar\nResearch Area: Thermal Engineering\nPhD from IIT Roorkee\n\nPhone: 267264\nEMail: parmod \nHome Page\nHomepage: http://se.iitmandi.ac.in/facprofile.php?user=Parmod\nEmail: parmod.iitmandi.ac.in\nPhone: 267264\nSchool: se\n"
+            },
+            "Pradeep": {
+                "resp0nse": "Result after searching the database...\nName: Pradeep Kumar\nResearch Area: Fluid & Thermal Science\nPhD from IIT Kanpur\n\nPhone: 267112\nEMail: pradeepkumar \nHome Page\nHomepage: http://se.iitmandi.ac.in/facprofile.php?user=pradeepkumar\nEmail: pradeepkumar.iitmandi.ac.in\nPhone: 267112\nSchool: se\n"
+            },
+            "Rahul": {
+                "resp0nse": "Result after searching the database...\nName: Rahul Vaish\nResearch Area: Materials Engineering\nPhD from IISc, Bangalore\n\nPhone: 267153\nEMail: rahul \nHome Page\nHomepage: http://se.iitmandi.ac.in/facprofile.php?user=rahul\nEmail: rahul.iitmandi.ac.in\nPhone: 267153\nSchool: se\n"
+            },
+            "Rajeev": {
+                "resp0nse": "Result after searching the database...\nName: Rajeev Kumar\nResearch Area: Machine Design, Vibration\nPhD from IIT Roorkee\n\nPhone: 267148\nEMail: rajeev \nHome Page\nHomepage: http://se.iitmandi.ac.in/facprofile.php?user=rajeev\nEmail: rajeev.iitmandi.ac.in\nPhone: 267148\nSchool: se\n"
+            },
+            "Rajesh": {
+                "resp0nse": "Result after searching the database...\nName: Rajesh Ghosh\nResearch Area: Solid Mechanics, Biomechanics\nPhD from IIT Kharagpur\n\nPhone: 0\nEMail: rajesh \nHome Page\nHomepage: http://se.iitmandi.ac.in/facprofile.php?user=rajesh\nEmail: rajesh.iitmandi.ac.in\nPhone: 0\nSchool: se\n"
+            },
+            "Rajneesh": {
+                "resp0nse": "Result after searching the database...\nName: Rajneesh Sharma\nResearch Area: Structures, Mechanics and Design\nPhD from IIT Delhi\n\nPhone: 267144\nEMail: rajnishsharma \nHome Page\nHomepage: http://se.iitmandi.ac.in/facprofile.php?user=rajnishsharma\nEmail: rajnishsharma.iitmandi.ac.in\nPhone: 267144\nSchool: se\n"
+            },
+            "Rik": {
+                "resp0nse": "Result after searching the database...\nName: Rik Rani Koner\nResearch Area: Hybrid Materials\nPhD from IIT Guwahati\n\nPhone: 267027\nEMail: rik \nHome Page\nHomepage: http://se.iitmandi.ac.in/facprofile.php?user=rik\nEmail: rik.iitmandi.ac.in\nPhone: 267027\nSchool: se\n"
+            },
+            "Sandip": {
+                "resp0nse": "Result after searching the database...\nName: Sandip Saha\nResearch Area: Earthquake Engineering\nPhD from IIT Delhi\n\nPhone: 267264\nEMail: sandip_saha \nHome Page\nHomepage: http://se.iitmandi.ac.in/facprofile.php?user=sandip_saha\nEmail: sandip_saha.iitmandi.ac.in\nPhone: 267264\nSchool: se\n"
+            },
+            "Satish": {
+                "resp0nse": "Result after searching the database...\nName: Satish Chandra Jain\nResearch Area: Vibration, Noise,Tribology and Computer Aided Design \nPhD from  IIT Roorkee\n\nPhone: 267278 \nEMail: satish\nHomepage: Not Available\nEmail: satish.iitmandi.ac.in\nPhone: 267278 \nSchool: se\n"
+            },
+            "Satvasheel": {
+                "resp0nse": "Result after searching the database...\nName: Satvasheel Powar\nResearch Area: Solar Energy\nPhD from Monash University, Australia\n\nPhone: 267136\nEMail: satvasheel \nHome Page\nHomepage: http://se.iitmandi.ac.in/facprofile.php?user=satvasheel\nEmail: satvasheel.iitmandi.ac.in\nPhone: 267136\nSchool: se\n"
+            },
+            "Subrata": {
+                "resp0nse": "Result after searching the database...\nName: Subrata Ray\nResearch Area: Physical metallurgy, Composites and Tribology \nPhD from IIT Kanpur\n\nPhone: \nEMail: sray \nHome Page\nHomepage: https://www.iitr.ac.in/~MT/surayfmt\nEmail: sray.iitmandi.ac.in\nPhone: \nSchool: se\n"
+            },
+            "Dr.": {
+                "resp0nse": "Result after searching the database...\nName: Dr. Sunny Zafar\nResearch Area: Manufacturing Engineering\nPhD from IIT Roorkee\n\nPhone: 267268\nEMail: sunnyzafar \nHome Page\nHomepage: http://se.iitmandi.ac.in/facprofile.php?user=sunnyzafar\nEmail: sunnyzafar.iitmandi.ac.in\nPhone: 267268\nSchool: se\n"
+            },
+            "Kaustav": {
+                "resp0nse": "Result after searching the database...\nName: Kaustav Sarkar\nResearch Area: Structural Engineering\nPhD from IIT Delhi\n\nPhone: 267145\nEMail: srkr \nHome Page\nHomepage: http://se.iitmandi.ac.in/facprofile.php?user=srkr\nEmail: srkr.iitmandi.ac.in\nPhone: 267145\nSchool: se\n"
+            },
+            "Subhamoy": {
+                "resp0nse": "Result after searching the database...\nName: Subhamoy Sen\nResearch Area: Structural Engineering\nPhD from IIT Kharagpur\n\nPhone: 267261\nEMail: subhamoy \nHome Page\nHomepage: http://se.iitmandi.ac.in/facprofile.php?user=subhamoy\nEmail: subhamoy.iitmandi.ac.in\nPhone: 267261\nSchool: se\n"
+            },
+            "Sumit": {
+                "resp0nse": "Result after searching the database...\nName: Sumit Sinha Ray\nResearch Area: Filtration and Separation, Energy Storage Materials, Nonwoven Methodologies\nPhD from University of Illinois at Chicago\n\nPhone: 267265\nEMail: sumitsinha \nHome Page\nHomepage: http://se.iitmandi.ac.in/facprofile.php?user=sumitsinha\nEmail: sumitsinha.iitmandi.ac.in\nPhone: 267265\nSchool: se\n"
+            },
+            "Mohammad": {
+                "resp0nse": "Result after searching the database...\nName: Mohammad  Talha\nResearch Area: Computational Solid Mechanics, High Technology Materials and Structures \nPhD from IIT Kharagpur\n\nPhone: 267152\nEMail: talha \nHome Page\nHomepage: http://se.iitmandi.ac.in/facprofile.php?user=talha\nEmail: talha.iitmandi.ac.in\nPhone: 267152\nSchool: se\n"
+            },
+            "Kala": {
+                "resp0nse": "Result after searching the database...\nName: Kala Venkata Uday\nResearch Area: Geotechnical Engineering\nPhD from IIT Bombay, Mumbai\n\nPhone: 267149\nEMail: uday \nHome Page\nHomepage: http://se.iitmandi.ac.in/facprofile.php?user=uday\nEmail: uday.iitmandi.ac.in\nPhone: 267149\nSchool: se\n"
+            },
+            "Vishal": {
+                "resp0nse": "Result after searching the database...\nName: Vishal S Chauhan\nResearch Area: Mechanical Engineering\nPhD from BIT Mesra Ranchi\n\nPhone: 267044\nEMail: vsc \nHome Page\nHomepage: http://se.iitmandi.ac.in/facprofile.php?user=vsc\nEmail: vsc.iitmandi.ac.in\nPhone: 267044\nSchool: se\n"
+            },
+            "resp0nse": "The SE is the School of Engineering.\nChairperson: Dr. Viswanath Balakrishnan\nEmail: chairse@iitmandi.ac.in\n"
+        },
+        "SHSS": {
+            "Suman": {
+                "resp0nse": "Result after searching the database...\nName: Suman\nResearch Area: Colonialism, Postcolonialism, Imperialism and Romance Literature\r\nPhD from  Indian Institute of Technology Delhi\r\n\nHomepage: https://sites.google.com/site/sumansigroha/\nEmail: suman.sigroha.iitmandi.ac.in\nPhone: 267140\nSchool: shss\n"
+            },
+            "Venkataraman": {
+                "resp0nse": "Result after searching the database...\nName: Venkataraman Ranganathan\nResearch Area: Economics, Energy, Environment & Climate Change\r\nPhD from IIM Ahmedabad\r\n\nHomepage: Not Available\nEmail: ranga.iitmandi.ac.in\nPhone: \nSchool: shss\n"
+            },
+            "Aruna": {
+                "resp0nse": "Result after searching the database...\nName: Aruna Bommareddi\nResearch Area: Comparative Literature, Indian Literatures in English\r\nPhD from University of Hyderabad (2004) \r\n\nHomepage: http://faculty.iitmandi.ac.in/~aruna/\nEmail: aruna.iitmandi.ac.in\nPhone: 267121\nSchool: shss\n"
+            },
+            "Devika": {
+                "resp0nse": "Result after searching the database...\nName: Devika Sethi\nResearch Area: Modern Indian History, Colonialism and Decolonization, Free Speech and Censorship \r\nPhD from  Jawaharlal Nehru University, New Delhi (2013) \r\n\nHomepage: http://faculty.iitmandi.ac.in/~devika/\nEmail: devika.iitmandi.ac.in\nPhone: 267270\nSchool: shss\n"
+            },
+            "Gokul": {
+                "resp0nse": "Result after searching the database...\nName: Gokul Somasekharan\nResearch Area: German Literature \r\nPhD from Free University Berlin\r\n\nHomepage: Not Available\nEmail: gokul.iitmandi.ac.in\nPhone: 267144\nSchool: shss\n"
+            },
+            "Ingrid": {
+                "resp0nse": "Result after searching the database...\nName: Ingrid Shockey\nResearch Area: Environmental Sociology\r\nPhD from Brandeis University\r\n\nHomepage: Not Available\nEmail: ishockey.iitmandi.ac.in\nPhone: \nSchool: shss\n"
+            },
+            "Manu": {
+                "resp0nse": "Result after searching the database...\nName: Manu V Devadevan\nResearch Area: Literary practices in South Asia, Political and economic processes in premodern South Asia & South Asian Epigraphy \r\nPhD from Mangalore University \r\n\nHomepage: http://faculty.iitmandi.ac.in/~manu/\nEmail: manu.iitmandi.ac.in\nPhone: 267147\nSchool: shss\n"
+            },
+            "Neha": {
+                "resp0nse": "Result after searching the database...\nName: Neha Kaushik\nResearch Area: Translation Studies, Women's Writing, Comparative Linguistics, German Studies\r\nPhD from Jawaharlal Nehru University \r\n\nHomepage: Not Available\nEmail: nehakaushik.iitmandi.ac.in\nPhone: 267267\nSchool: shss\n"
+            },
+            "Nilamber": {
+                "resp0nse": "Result after searching the database...\nName: Nilamber Chhetri\nResearch Area: Sociology\r\nPhD from  Jawaharlal Nehru University, New Delhi\r\n\nHomepage: Not Available\nEmail: nilamber.iitmandi.ac.in\nPhone: 267079\nSchool: shss\n"
+            },
+            "Puran": {
+                "resp0nse": "Result after searching the database...\nName: Puran Singh\nResearch Area: Corporate Finance, Financial Inclusion, Entrepreneurship\r\nPhD from Punjab University (2013) \r\n\nHomepage:  https://sites.google.com/view/puransingh\nEmail: puran.iitmandi.ac.in\nPhone: 267148\nSchool: shss\n"
+            },
+            "Purnima": {
+                "resp0nse": "Result after searching the database...\nName: Purnima K. Bajre\nResearch Area: Language processing amd Elementary Education along with Cognitive Psychology\r\nPhD from IIT Bombay\r\n\nHomepage: Not Available\nEmail: purnimabajre.iitmandi.ac.in\nPhone: \nSchool: shss\n"
+            },
+            "Rajeshwari": {
+                "resp0nse": "Result after searching the database...\nName: Rajeshwari Dutt\nResearch Area: History\r\nPhD from Carnegie Mellon University (2012)\r\n\nHomepage: http://faculty.iitmandi.ac.in/~rdutt/\nEmail: rdutt.iitmandi.ac.in\nPhone: 267043\nSchool: shss\n"
+            },
+            "Ramna": {
+                "resp0nse": "Result after searching the database...\nName: Ramna Thakur\nResearch Area: Development Economics \r\nPhD from Himachal Pradesh University, Shimla \r\n\nHomepage: Not Available\nEmail: ramna.iitmandi.ac.in\nPhone: 267044\nSchool: shss\n"
+            },
+            "Saumya": {
+                "resp0nse": "Result after searching the database...\nName: Saumya Dixit\nResearch Area: Post consumption consumer behaviour, e-waste management, e-wom management\r\nPhD from IIIT Allahabad\r\n\nHomepage: Not Available\nEmail: saumya.iitmandi.ac.in\nPhone: \nSchool: shss\n"
+            },
+            "Shyamasree": {
+                "resp0nse": "Result after searching the database...\nName: Shyamasree Dasgupta\nResearch Area: Energy and Environmental Economics, Economics of Climate Change, Applied Econometrics\r\nPhD from  Jadavpur University (2015) \r\n\nHomepage: http://shyamasree0.webnode.com/\nEmail: shyamasree.iitmandi.ac.in\nPhone: 267118\nSchool: shss\n"
+            },
+            "Surya": {
+                "resp0nse": "Result after searching the database...\nName: Surya Prakash Upadhyay\nResearch Area: Sociology of Religion, Urban Sociology, Post-Reform India\r\nPhD from Indian Institute of Technology Bombay (2011) \r\n\nHomepage: http://faculty.iitmandi.ac.in/~surya/\nEmail: surya.iitmandi.ac.in\nPhone: 267136\nSchool: shss\n"
+            },
+            "Varun": {
+                "resp0nse": "Result after searching the database...\nName: Varun Dutt\nResearch Area: Artificial Intelligence, Human-Computer Interaction, Cognitive Science, Judgment and Decision Making\r\nPhD from Carnegie Mellon University, USA (2011)\r\n\nHomepage: http://faculty.iitmandi.ac.in/~varun/\nEmail: varun.iitmandi.ac.in\nPhone: 267150\nSchool: shss\n"
+            },
+            "resp0nse": "The SHSS is the School of Humanities and Social Sciences.\nChairperson: Dr. Suman\nEmail: chairshss@iitmandi.ac.in\n"}
+            
+            
+        },
+            "campus": {
+                "resp0nse": "IIT Mandi has a beautiful campus set against the backdrop of the Himalayas! The campus is split into 2 parts - North Campus (for B.Tech students) and South Campus (for M.Tech and Ph.D students).",
+                "Facilities":{
+                    "resp0nse": "The academic facilities consist of the Central Library (North Campus), Library (South Campus), Mechanical Workshop and various research labs like AMRC, C4FED, etc.",
+                    "Library":{
+                        "resp0nse": "The library currently contains 20071 print books, 21774 E-books and 20000 E-journals.\nTimings\nCentral Library@NorthCampus - A16 builidng : Mon-Sun = 9 AM - 5:30 PM\nLibrary@SouthCapmus - A5 building : Mon-Sun = 9 AM - 5:30 PM"
+                    },
+                    "AMRC":{
+                        "response": "Advanced Materials Research Centre's mission is to support and foster the research enterprise, at IIT Mandi by providing state-of-the-art instrumentation and ancillary equipment, and expertise in its use and application.The following facilities are available -\nPowder X-ray Diffractometer\nHigh Resolution Transmission Electron Microscope (TEM) – Energy Dispersive Spectroscopy (EDS)\nNuclear Magnetic Resonance Spectrometer - 500 MHz\nVisit http://www.iitmandi.ac.in/research/amrc/AMRC%20instrument%20facility.pdf for complete list"
+                    },
+                    "NKN":{
+                        "resp0nse": "The objective of the National Knowledge Network (NKN) is to bring together all the stakeholders in Science, Technology, Higher Education, Research & Development and Governance. The NKN is a revolutionary state-of-the-art multi-gigabit pan-Indian resource-sharing network aimed at digitally connecting all national universities, colleges and research establishments to create country-wide virtual classrooms.\nImportant Contacts -\nControl room phone number+91-1905-267052, +91-01905-267032\nVirtual Class Room at A1 building VC IP Number : 7301\nHelpdesk VC IP Number : 7302\nA4 Small Meeting Room VC IP Number : 7303\nVirtual Class Room at Stable Complex VC IP Number : 7304\nA4 Conference Room VC IP Number : 7306\nA5 Confeerence Room VC IP Number : 7307\nOld Directorate Confeerence Room VC IP Number : 7308\nDirector Office Confeerence Room VC IP Number : 7309\nCatalyst VC IP Number : 7310"
+                    },
+                    "Workshop":
+                    {"resp0nse":"A well-equipped Central Workshop with CNC lathe, CNC milling, rapid prototyping machine and conventional machining, welding and foundry equipment caters to the requirements of undergraduate labs, projects and various research activities."
+                    }
+                },
+                "Medical":{
+                    "resp0nse": "For medical emergencies, you can contact -\nNorth Campus Energency Number : 9816663003\nSouth Campus Emergency Number : 7807330895\nRECEPTION (9:00 AM - 5:30 PM) : 267849 (North Campus), 267014 (South Campus)"
+                },
+                "stores":{
+                    "resp0nse": "Both campuses have provision, grocery and stationary stores which are fully functional"
+                },
+                "bank":{
+                    "resp0nse": "SBI and PNB have their branches on campus."
+                },
+                "atm":{
+                    "resp0nse": "SBI and PNB have their ATMs on campus."
+                },
+                "lab":{
+                    "resp0nse":"The followings labs are present on campus -\nElectrical and electronics\nMechanical Design\nThermo-fluids\nPhysics\nBioX\nNanotechnology\nPhotoresist\nChemistry\nComputer Sciences labs"
+                },
+                "computing": {
+                    "resp0nse": "The institute has a High Performance Computational (HPC) facility with 39 nodes based on Intel Xeon processors that have total 404 processor cores, memory of 1.3 TB and 63 TB storage space."
+                },
+                "hostel":{
+                    "resp0nse": "There are about 30 hostels in both North and South campus combined.",
+                    "boys": {
+                        "resp0nse":"These are the boys hostels --- Beaskund, Dashir, Parashar, Nako, Suvalsar and Surajtaal."
+                    },
+                    "girls":{
+                        "resp0nse":"These are the girls hostels --- Gaurikund and Chandrataal."
+                    }
+                },
+                "mess":{
+                    "resp0nse":"There are 4 messes, 2 in each campus.\nNorth Campus - Pine mess, Oak mess\nSouth Campus - Cedar mess, Maple mess"
+                },
+                "canteen": {
+                    "resp0nse":"These are the canteens -\nNorth Campus - Sunrise, Jassi, One Bite, Amul Parlour\nSouth Campus - Daily Dose and Priya Canteen"
+                }, 
+                "auditorium": {
+                    "resp0nse": "In addition to the 800 seater auditorium, the complex has 3 small lecture halls (with a capacity of around 40–50 students) each"
+                },
+                "botanical": {
+                    "resp0nse": "The Botanical Garden was started in July 2015 with complete support from IIT Mandi with the following main objectives -\n1. Study of flora of Kamand region\n2. Establish a Botanical Garden with collection of local flora\n3. Develop and maintain Herbarium\n4. In-situ conservation, collection and maintenance of medicinal plants\n5. Documentation, digitization and dissemination of the related information\n6. Undertake R&D in the related area (Phytochemical profiling of selected plants, understanding the local edible plants, Bioengineering plants etc)\nFor more info, visit https://research.iitmandi.ac.in/botanical/"
+                },
+                "garden": {
+                    "resp0nse": "The Botanical Garden was started in July 2015 with complete support from IIT Mandi with the following main objectives -\n1. Study of flora of Kamand region\n2. Establish a Botanical Garden with collection of local flora\n3. Develop and maintain Herbarium\n4. In-situ conservation, collection and maintenance of medicinal plants\n5. Documentation, digitization and dissemination of the related information\n6. Undertake R&D in the related area (Phytochemical profiling of selected plants, understanding the local edible plants, Bioengineering plants etc)\nFor more info, visit https://research.iitmandi.ac.in/botanical/"}}}}
