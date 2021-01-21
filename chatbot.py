@@ -167,10 +167,12 @@ while(mainFlag):
                 bot.sendMessage(
                     "Your choice.. I was just trying to help.", from_)
             else:
-                processedAltAns = process(altInpMsg)
-                ans, _ = search(processedAltAns, "data/abtCollege.json")
-                ans = "".join(list(ans))
-                if ans == "":
-                    bot.sendMessage("I can't help you :(", from_)
-                else:
-                    bot.sendMessage(ans, from_)
+                #processedAltAns = process(altInpMsg)
+                #ans, _ = search(processedAltAns, "data/abtCollege.json")
+                #ans = "".join(list(ans))
+                #if ans == "":
+                    #bot.sendMessage("I can't help you :(", from_)
+                #else:
+                    #bot.sendMessage(ans, from_)
+                bot.sendMessage(
+                    "I cannot find what you are looking for :(", from_)
