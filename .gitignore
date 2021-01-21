@@ -3,3 +3,4 @@ bot/
 .vscode/
 .google-cookie
 temp
+.env

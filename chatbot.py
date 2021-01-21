@@ -173,7 +173,7 @@ while(mainFlag):
                             bot.sendMessage("Okay! Here you go.", from_)
                             bot.sendMessage(string, from_)
                         altInpMsg = ''
-                elif ("no" in altInpMsg):
+                elif ("no" in altInpMsg or "nope" in altInpMsg):
                     bot.sendMessage("Your choice.. I was just trying to help.", from_)
                     altInpMsg = ''
             else:
