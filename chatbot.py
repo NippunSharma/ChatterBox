@@ -83,12 +83,15 @@ def getMessage(update_id, from_ = None):
 
 # Writing main loop.
 mainFlag = True
+altInpMsg = ''
 while(mainFlag):
     print("........")
     # obtaining the input.
-    inputMsg, update_id, from_ = getMessage(update_id, from_ = None)
-    inputMsg = inputMsg.strip()
-
+    if altInpMsg == '':
+        inputMsg, update_id, from_ = getMessage(update_id, from_ = None)
+        inputMsg = inputMsg.strip()
+    else:
+        inputMsg = ' '.join(altInpMsg)
     command = ""
 
     try:
@@ -100,18 +103,22 @@ while(mainFlag):
     # or not.
     if command == "/start":
         bot.sendMessage("Hi! Glad to know that you've chosen to take my help! What can I assist you with ?", from_)
+        altInpMsg = ''
     elif command == "!code":
         bot.sendMessage("Plese refer to the following link: ", from_)
         bot.sendMessage(google_search(" ".join(inputMsg.split(" ")[1:])), from_)
+        altInpMsg = ''
     elif command == "!faq":
         ansMatch = match(inputMsg, "data/final_concat.csv")
         bot.sendMessage(ansMatch, from_)
+        altInpMsg = ''
     elif command == "!weather":
         try:
             city = " ".join(inputMsg.split()[1:])
             bot.sendMessage(currentWeather(city), from_)
         except Exception as e:
             bot.sendMessage("Unable to process the request.", from_)
+        altInpMsg = ''
     else:
         processedMsg = process(inputMsg)
         # greeting if needed.
@@ -127,20 +134,22 @@ while(mainFlag):
 
         # handling if only greet is present inside input.
         if (ans == "" and greetFlag):
+            altInpMsg = ''
             continue
         elif (ans == "" and not greetFlag):
             bot.sendMessage("Answer not found in main database...", from_)
             bot.sendMessage("Do you want me to search in the Facebook groups of previous year and other sites like Quora ?", from_)
-            faq, update_id, from_ = getMessage(update_id, from_)
-            faq = faq.strip().lower()
-            if "yes" in faq or "yup" in faq:
+            altInpMsg, update_id, from_ = getMessage(update_id, from_)
+            altInpMsg = altInpMsg.strip().lower().split()
+            if "yes" in altInpMsg or "yup" in altInpMsg:
                 ansMatch = match(inputMsg, "data/final_concat.csv")
                 bot.sendMessage(ansMatch, from_)
-            elif "no" in faq:
-                bot.sendMessage(
-                    "Your choice.. I was just trying to help.", from_)
+                altInpMsg = ''
+            elif "no" in altInpMsg or "nope" in altInpMsg:
+                bot.sendMessage("Your choice.. I was just trying to help.", from_)
+                altInpMsg = ''
             else:
-                bot.sendMessage("Sorry, I am unable to answer that. Please ask me something else :)", from_)
+                continue
         else:
             bot.sendMessage(ans, from_)
             randAltAns = choice(list(altans.keys()),
@@ -150,29 +159,22 @@ while(mainFlag):
                 # alternate answers
                 bot.sendMessage(QUES + ", ".join(randAltAns) + "?", from_)
                 altInpMsg, update_id, from_ = getMessage(update_id, from_)
-                altInpMsg = altInpMsg.strip().lower()
-            if ("yes" in altInpMsg):
-                string = ""
-                if len(altans1) != 0:
-                    for w in randAltAns:
-                        if w in altInpMsg:
-                            string += altans[w] + "\n"
-                    if string == "":
+                altInpMsg = altInpMsg.strip().lower().split()
+                if ("yes" in altInpMsg):
+                    string = ""
+                    if len(altans1) != 0:
                         for w in randAltAns:
-                            string += altans[w] + "\n"
-                    if string != "":
-                        bot.sendMessage("Okay! Here you go.", from_)
-                        bot.sendMessage(string, from_)
-            elif ("no" in altInpMsg):
-                bot.sendMessage(
-                    "Your choice.. I was just trying to help.", from_)
+                            if w in altInpMsg:
+                                string += altans[w] + "\n"
+                        if string == "":
+                            for w in randAltAns:
+                                string += altans[w] + "\n"
+                        if string != "":
+                            bot.sendMessage("Okay! Here you go.", from_)
+                            bot.sendMessage(string, from_)
+                        altInpMsg = ''
+                elif ("no" in altInpMsg):
+                    bot.sendMessage("Your choice.. I was just trying to help.", from_)
+                    altInpMsg = ''
             else:
-                #processedAltAns = process(altInpMsg)
-                #ans, _ = search(processedAltAns, "data/abtCollege.json")
-                #ans = "".join(list(ans))
-                #if ans == "":
-                    #bot.sendMessage("I can't help you :(", from_)
-                #else:
-                    #bot.sendMessage(ans, from_)
-                bot.sendMessage(
-                    "I cannot find what you are looking for :(", from_)
+                continue
