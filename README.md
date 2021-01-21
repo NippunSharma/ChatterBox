@@ -29,6 +29,12 @@ chmod +x setup.sh
 ```
 
 Setup is now done! To start chatting with the bot, run `python chatbot.py`.
-Have a look at the [Usage Guide](https://github.com/NippunSharma/ChatterBox/blob/main/doc.pdf) for usage details and various commands.
+Have a look at the [Usage Guide](https://github.com/NippunSharma/ChatterBox/blob/main/UsageGuide.pdf) for usage details and various commands.
 
 Note: Sometimes, due to problems in loops, the bot may not give an answer to a question the first time you ask it. It is suggested that you try asking the question again. You might get the correct answer this time. If the bot still is not able to find the answer, then the answer cannot be found by the bot.
+
+# Demos
+
+![demo_1](https://github.com/NippunSharma/ChatterBox/blob/main/demo/ChatterBox_1.png)
+![demo_2](https://github.com/NippunSharma/ChatterBox/blob/main/demo/ChatterBox_2.png)
+![demo_3](https://github.com/NippunSharma/ChatterBox/blob/main/demo/ChatterBox_3.png)
