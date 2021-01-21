@@ -1,6 +1,8 @@
-![ChatterBox](https://github.com/NippunSharma/ChatterBox/blob/main/logo.jpg?raw=true)
+<div align="center"><img src="https://github.com/NippunSharma/ChatterBox/blob/main/logo.jpg?raw=true"></div>
 
 <h1 align="center">ChatterBox</h1>
+
+This is a chatbot to answer queries of freshers joining IIT Mandi!
 
 Currently, the bot supports queries of two forms - voice messages and text messages on telegram. For both of these, the bot will send a text message as a response to the query asked by the user.
 
@@ -34,6 +36,11 @@ Now, you have to run `setup.sh`. This will install the packages from `requiremen
 ```
 chmod +x setup.sh
 ./setup.sh
+```
+
+Create a `.env` file with the following content -
+```
+TELEGRAM_API_KEY=<your_api_key>
 ```
 
 Setup is now done! To start chatting with the bot, run `python chatbot.py` and start messaging [@ChatterBoxxBot](https://web.telegram.org/#/im?p=@ChatterBoxxBot) on Telegram.<br>
