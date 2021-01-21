@@ -15,10 +15,6 @@ On Windows, you can do the following -
 
 1. Download the latest version of `ffmpeg` from the [here](https://www.gyan.dev/ffmpeg/builds/).
 2. Extract the folder to `C:\Program Files\ffmpeg`. (IMPORTANT : If you want to extract it elsewhere, you will have to manually change the path of ffmpeg in Line 67 of `telegram_bot.py`).
-3. Add this folder to the path using the following command in Powershell -
-```
-setx /m PATH "<path to ffmpeg>/bin;%PATH%"
-```
 
 Next, you have to create a virtual environment and activate it.
 ```
@@ -34,3 +30,5 @@ chmod +x setup.sh
 
 Setup is now done! To start chatting with the bot, run `python chatbot.py`.
 Have a look at the [Usage Guide](https://github.com/NippunSharma/ChatterBox/blob/main/doc.pdf) for usage details and various commands.
+
+Note: Sometimes, due to problems in loops, the bot may not give an answer to a question the first time you ask it. It is suggested that you try asking the question again. You might get the correct answer this time. If the bot still is not able to find the answer, then the answer cannot be found by the bot.
