@@ -98,7 +98,9 @@ while(mainFlag):
 
     # checking if message is related to coding
     # or not.
-    if command == "!code":
+    if command == "/start":
+        bot.sendMessage("Hi! Glad to know that you've chosen to take my help! What can I assist you with ?", from_)
+    elif command == "!code":
         bot.sendMessage("Plese refer to the following link: ", from_)
         bot.sendMessage(google_search(" ".join(inputMsg.split(" ")[1:])), from_)
     elif command == "!faq":
@@ -121,7 +123,7 @@ while(mainFlag):
         for key in altans1:
             altans[key.lower()] = altans1[key]
 
-        ans = "".join(list(ans))
+        ans = "\n".join(list(ans))
 
         # handling if only greet is present inside input.
         if (ans == "" and greetFlag):
@@ -141,7 +143,7 @@ while(mainFlag):
                 bot.sendMessage("Sorry, I am unable to answer that. Please ask me something else :)", from_)
         else:
             bot.sendMessage(ans, from_)
-            randAltAns = choice(list(altans1.keys()),
+            randAltAns = choice(list(altans.keys()),
                                 size=2, replace=False)
             if len(altans) != 0:
                 QUES = "Do you wish to know more about "
@@ -154,15 +156,13 @@ while(mainFlag):
                 if len(altans1) != 0:
                     for w in randAltAns:
                         if w in altInpMsg:
-                            string += altans1[w] + "\n"
+                            string += altans[w] + "\n"
+                    if string == "":
+                        for w in randAltAns:
+                            string += altans[w] + "\n"
                     if string != "":
                         bot.sendMessage("Okay! Here you go.", from_)
                         bot.sendMessage(string, from_)
-                    else:
-                        bot.sendMessage(
-                            "Can you repeat your question ?", from_)
-
-
             elif ("no" in altInpMsg):
                 bot.sendMessage(
                     "Your choice.. I was just trying to help.", from_)

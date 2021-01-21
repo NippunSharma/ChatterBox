@@ -1,10 +1,13 @@
 {   "st3rt":{
     "resp0nse": "Sorry I just can't find it ...",
+    "laptop": {
+        "resp0nse": "Laptop is quite an important thing in your 4 years of B.Tech. To make it easy to choose what you need, you can refer to the following link -\nhttps://docs.google.com/document/d/1gZ_1lB1EsCssO2eT2-4-LqY5DktD0uQjfylMx9JpFGY/edit?fbclid=IwAR1HCEZQIW18ph-bCNn5WFA3LhXQLHNCUxGU_gk357qtX0Qf5xe2gWyrQ1Q"
+    },
     "located": {
-        "resp0nse": "IIT Mandi is located in the foothills of Himalaya in Kamand,Mandi,Himachal Pradesh. It is only 40km from Kullu Airport."
+        "resp0nse": "IIT Mandi is located in the foothills of Himalaya in Kamand,Mandi,Himachal Pradesh. It is only 40km from Kullu Airport.\nhttps://www.google.com/maps/dir//iit+mandi/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3904e36054b1fd81:0xc3174a90dec9f339?sa=X&ved=2ahUKEwiEic3k6KzuAhWaxzgGHegRDqcQ9RcwK3oECDEQBQ"
     },
     "location": {
-        "resp0nse": "IIT Mandi is located in the foothills of Himalaya in Kamand,Mandi,Himachal Pradesh. It is only 40km from Kullu Airport."
+        "resp0nse": "IIT Mandi is located in the foothills of Himalaya in Kamand,Mandi,Himachal Pradesh. It is only 40km from Kullu Airport.\nhttps://www.google.com/maps/dir//iit+mandi/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x3904e36054b1fd81:0xc3174a90dec9f339?sa=X&ved=2ahUKEwiEic3k6KzuAhWaxzgGHegRDqcQ9RcwK3oECDEQBQ"
     },
     "gymkhana":
     {
