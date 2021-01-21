@@ -1,4 +1,6 @@
-# ChatterBox
+![ChatterBox](https://github.com/NippunSharma/ChatterBox/blob/main/logo.jpg?raw=true)
+
+<h1 align="center">ChatterBox</h1>
 
 Currently, the bot supports queries of two forms - voice messages and text messages on telegram. For both of these, the bot will send a text message as a response to the query asked by the user.
 
