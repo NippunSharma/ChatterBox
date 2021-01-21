@@ -2,6 +2,7 @@ import requests
 import json
 import subprocess
 import speech_recognition as sr
+import sys
 
 # API token of the bot.
 TOKEN = "1521698483:AAHTyz_22-Q48iYVU6NC5ynWMUhoPC6QREA"
@@ -17,7 +18,10 @@ def speech2text(audio_file):
     with query as source:
         audio = r.record(source)
 
-    subprocess.run(['rm', audio_file])
+    if sys.platform == "linux":
+        subprocess.run(['rm', audio_file])
+    else:
+        subprocess.run('del /f -y ' + audio_file, shell=True)
     try:
         print('Recognising....')
         text = r.recognize_google(audio)
@@ -60,9 +64,11 @@ class TelegramChatbot():
                 "/" + file_path
             r = requests.get(url)
             file.write(r.content)
-        convert = subprocess.run(
-            ['ffmpeg', '-i', "temp", "query.wav"])
-        subprocess.run(['rm', 'temp'])
-
+        if sys.platform == 'linux':
+            convert = subprocess.run(['ffmpeg', '-i', "temp", "query.wav"])
+            subprocess.run(['rm', 'temp'])
+        else:
+            convert = subprocess.run('"C:\\Program Files\\ffmpeg\\bin\\ffmpeg.exe" -i temp query.wav')
+            subprocess.run('del /f -y temp', shell=True)
         if convert.returncode != 0:
             raise Exception("Something went wrong")
