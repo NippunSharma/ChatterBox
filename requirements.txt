@@ -1,9 +1,9 @@
-﻿nltk==3.5
+nltk==3.5
 numpy==1.19.5
 pandas==1.2.0
 pywsd==1.2.4
 requests==2.25.1
-urllib3==1.26.4
+urllib3==1.26.5
 wn==0.0.23
 SpeechRecognition==3.8.1
 google==3.0.0
